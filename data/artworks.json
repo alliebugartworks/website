@@ -21,23 +21,23 @@
       "category": "card"
     },
     {
-      "id": "wedding-gifts",
+      "id": "butter-banner",
       "title": "Just Like Butter Wedding Banner",
       "description": "This felt and cotton fabric banner was a wedding gift for friends who described their relationship like butter melting into mashed potatoes-a beautiful amalgamation of souls. I can include names and/or date for an additional $20.",
       "price": 65,
       "priceDisplay": "$65",
-      "images": ["images/wedding-gifts/main.png"],
-      "thumbnail": "images/wedding-gifts/main.png",
+      "images": ["images/butter-banner/Felt_butter1.png","images/butter-banner/Felt_butter2.png"],
+      "thumbnail": "images/butter-banner/Felt_butter1.png",
       "category": "felt-piece"
     },
     {
-      "id": "bachelorette-gift",
+      "id": "camp-banner",
       "title": "Camp Banner",
       "description": "My friends had a camp themed bachelorette party and I crafted this banner to help celebrate! I thrifted that beautiful green material for the base and handstitched every felt piece and bead on top. The disco ball, stars, and beadwork are optional for an additional $20. ",
       "price": 75,
       "priceDisplay": "$75",
-      "images": ["images/bachelorette-gift/main.png"],
-      "thumbnail": "images/bachelorette-gift/main.png",
+      "images": ["images/camp-banner/main.png","images/camp-banner/image.png"],
+      "thumbnail": "images/camp-banner/main.png",
       "category": "felt-piece"
     },
     {
@@ -52,6 +52,29 @@
         "images/sophie-name/main.png"
       ],
       "thumbnail": "images/casey-name/main.png",
+      "category": "felt-piece"
+    },
+    {
+      "id": "hello-banner",
+      "title": "Hello Banner",
+      "description": "A bright, playful welcome banner made from hand-cut felt letters and layered color. The rainbow letters are stitched and assembled with a chunky, handmade finish that feels cheerful and nostalgic—perfect for a nursery, playroom, or front entry.",
+      "price": 90,
+      "priceDisplay": "$90",
+      "images": [
+        "images/hello-banner/main.jpg",
+        "images/hello-banner/1.jpg"
+      ],
+      "thumbnail": "images/hello-banner/main.jpg",
+      "category": "felt-piece"
+    },
+    {
+      "id": "nursery-banner",
+      "title": "Wished Upon a Star Nursery Banner Set",
+      "description": "A dreamy night-sky nursery banner with puff clouds, a gold star, and soft pastel colors. This hand-stitched felt piece is designed to feel gentle and whimsical, bringing a cozy celestial mood to a nursery, reading nook, or baby's room.",
+      "price": 90,
+      "priceDisplay": "$90",
+      "images": ["images/nursery-banner/2.jpg","images/nursery-banner/1.jpg","images/nursery-banner/main.jpg"],
+      "thumbnail": "images/nursery-banner/2.jpg",
       "category": "felt-piece"
     },
     {
