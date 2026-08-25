@@ -7,11 +7,10 @@
       "price": 100,
       "priceDisplay": "$100",
       "images": [
-        "images/love-bad-bitches/main.jpg"
+        "images/felt/love-bad-bitches/main.jpg"
       ],
-      "thumbnail": "images/love-bad-bitches/main.jpg",
-      "category": "felt-piece",
-      "subcategory": "celebration"
+      "thumbnail": "images/felt/love-bad-bitches/main.jpg",
+      "category": "felt"
     },
     {
       "id": "very-hungry-boy-card",
@@ -20,10 +19,10 @@
       "price": 5,
       "priceDisplay": "$5",
       "images": [
-        "images/very-hungry-boy-card/main.png"
+        "images/cards/very-hungry-boy-card/main.png"
       ],
-      "thumbnail": "images/very-hungry-boy-card/main.png",
-      "category": "card"
+      "thumbnail": "images/cards/very-hungry-boy-card/main.png",
+      "category": "cards"
     },
     {
       "id": "butter-banner",
@@ -32,12 +31,11 @@
       "price": 65,
       "priceDisplay": "$65",
       "images": [
-        "images/butter-banner/Felt_butter1.png",
-        "images/butter-banner/Felt_butter2.png"
+        "images/felt/butter-banner/Felt_butter1.png",
+        "images/felt/butter-banner/Felt_butter2.png"
       ],
-      "thumbnail": "images/butter-banner/Felt_butter1.png",
-      "category": "felt-piece",
-      "subcategory": "celebration"
+      "thumbnail": "images/felt/butter-banner/Felt_butter1.png",
+      "category": "felt"
     },
     {
       "id": "camp-banner",
@@ -46,12 +44,11 @@
       "price": 75,
       "priceDisplay": "$75",
       "images": [
-        "images/camp-banner/main.png",
-        "images/camp-banner/image.png"
+        "images/felt/camp-banner/main.png",
+        "images/felt/camp-banner/image.png"
       ],
-      "thumbnail": "images/camp-banner/main.png",
-      "category": "felt-piece",
-      "subcategory": "celebration"
+      "thumbnail": "images/felt/camp-banner/main.png",
+      "category": "felt"
     },
     {
       "id": "name-banner",
@@ -60,13 +57,12 @@
       "price": 30,
       "priceDisplay": "$30",
       "images": [
-        "images/casey-name/main.png",
-        "images/jamie-name/main.png",
-        "images/sophie-name/main.png"
+        "images/felt/casey-name/main.png",
+        "images/felt/jamie-name/main.png",
+        "images/felt/sophie-name/main.png"
       ],
-      "thumbnail": "images/casey-name/main.png",
-      "category": "felt-piece",
-      "subcategory": "felt"
+      "thumbnail": "images/felt/casey-name/main.png",
+      "category": "felt"
     },
     {
       "id": "hello-banner",
@@ -75,12 +71,11 @@
       "price": 90,
       "priceDisplay": "$90",
       "images": [
-        "images/hello-banner/main.jpg",
-        "images/hello-banner/1.jpg"
+        "images/felt/hello-banner/main.jpg",
+        "images/felt/hello-banner/1.jpg"
       ],
-      "thumbnail": "images/hello-banner/main.jpg",
-      "category": "felt-piece",
-      "subcategory": "welcome"
+      "thumbnail": "images/felt/hello-banner/main.jpg",
+      "category": "felt"
     },
     {
       "id": "nursery-banner",
@@ -89,13 +84,12 @@
       "price": 90,
       "priceDisplay": "$90",
       "images": [
-        "images/nursery-banner/222.jpg",
-        "images/nursery-banner/1.jpg",
-        "images/nursery-banner/main.jpg"
+        "images/felt/nursery-banner/222.jpg",
+        "images/felt/nursery-banner/1.jpg",
+        "images/felt/nursery-banner/main.jpg"
       ],
-      "thumbnail": "images/nursery-banner/222.jpg",
-      "category": "felt-piece",
-      "subcategory": "nursery"
+      "thumbnail": "images/felt/nursery-banner/222.jpg",
+      "category": "felt"
     },
     {
       "id": "custom-commission",
@@ -104,11 +98,10 @@
       "price": 100,
       "priceDisplay": "$100",
       "images": [
-        "images/casey-name/main.png"
+        "images/felt/casey-name/main.png"
       ],
-      "thumbnail": "images/casey-name/main.png",
-      "category": "felt-piece",
-      "subcategory": "custom"
+      "thumbnail": "images/felt/casey-name/main.png",
+      "category": "felt"
     },
     {
       "id": "handmade-cards",
@@ -117,11 +110,10 @@
       "price": 15,
       "priceDisplay": "$15",
       "images": [
-        "images/handmade-cards/main.jpg"
+        "images/cards/handmade-cards/main.jpg"
       ],
-      "thumbnail": "images/handmade-cards/main.jpg",
-      "category": "card",
-      "subcategory": "pride"
+      "thumbnail": "images/cards/handmade-cards/main.jpg",
+      "category": "cards"
     },
     {
       "id": "thank-you-stamp-cards",
@@ -130,11 +122,10 @@
       "price": 7,
       "priceDisplay": "$7",
       "images": [
-        "images/thank-you-stamp-cards/main.jpg"
+        "images/cards/thank-you-stamp-cards/main.jpg"
       ],
-      "thumbnail": "images/thank-you-stamp-cards/main.jpg",
-      "category": "card",
-      "subcategory": "thank you"
+      "thumbnail": "images/cards/thank-you-stamp-cards/main.jpg",
+      "category": "cards"
     },
     {
       "id": "halloween-card",
@@ -143,11 +134,10 @@
       "price": 5,
       "priceDisplay": "$5",
       "images": [
-        "images/halloween-card/main.jpg"
+        "images/cards/halloween-card/main.jpg"
       ],
-      "thumbnail": "images/halloween-card/main.jpg",
-      "category": "card",
-      "subcategory": "halloween"
+      "thumbnail": "images/cards/halloween-card/main.jpg",
+      "category": "cards"
     },
     {
       "id": "hand-drawn-engaged",
@@ -156,11 +146,10 @@
       "price": 5,
       "priceDisplay": "$5",
       "images": [
-        "images/hand-drawn-engaged/main.jpg"
+        "images/cards/hand-drawn-engaged/main.jpg"
       ],
-      "thumbnail": "images/hand-drawn-engaged/main.jpg",
-      "category": "card",
-      "subcategory": "just saying hi"
+      "thumbnail": "images/cards/hand-drawn-engaged/main.jpg",
+      "category": "cards"
     },
     {
       "id": "new-home-card",
@@ -169,11 +158,10 @@
       "price": 5,
       "priceDisplay": "$5",
       "images": [
-        "images/new-home-card/main.jpg"
+        "images/cards/new-home-card/main.jpg"
       ],
-      "thumbnail": "images/new-home-card/main.jpg",
-      "category": "card",
-      "subcategory": "thinking of you"
+      "thumbnail": "images/cards/new-home-card/main.jpg",
+      "category": "cards"
     },
     {
       "id": "wedding-card",
@@ -182,11 +170,10 @@
       "price": 5,
       "priceDisplay": "$5",
       "images": [
-        "images/wedding-card/main.jpg"
+        "images/cards/wedding-card/main.jpg"
       ],
-      "thumbnail": "images/wedding-card/main.jpg",
-      "category": "card",
-      "subcategory": "just saying hi"
+      "thumbnail": "images/cards/wedding-card/main.jpg",
+      "category": "cards"
     },
     {
       "id": "wedding-card-moon",
@@ -195,11 +182,10 @@
       "price": 5,
       "priceDisplay": "$5",
       "images": [
-        "images/wedding-card-moon/main.jpg"
+        "images/cards/wedding-card-moon/main.jpg"
       ],
-      "thumbnail": "images/wedding-card-moon/main.jpg",
-      "category": "card",
-      "subcategory": "just saying hi"
+      "thumbnail": "images/cards/wedding-card-moon/main.jpg",
+      "category": "cards"
     },
     {
       "id": "anniversary-card",
@@ -208,11 +194,10 @@
       "price": 5,
       "priceDisplay": "$5",
       "images": [
-        "images/anniversary-card/main.png"
+        "images/cards/anniversary-card/main.png"
       ],
       "thumbnail": "images/anniversary-card/main.png",
-      "category": "card",
-      "subcategory": "just saying hi"
+      "category": "cards"
     },
     {
       "id": "birthday-card",
@@ -221,11 +206,10 @@
       "price": 8,
       "priceDisplay": "$8",
       "images": [
-        "images/birthday-card/main.png"
+        "images/cards/birthday-card/main.png"
       ],
-      "thumbnail": "images/birthday-card/main.png",
-      "category": "card",
-      "subcategory": "birthday"
+      "thumbnail": "images/cards/birthday-card/main.png",
+      "category": "cards"
     },
     {
       "id": "hay-card",
@@ -234,11 +218,10 @@
       "price": 5,
       "priceDisplay": "$5",
       "images": [
-        "images/hay-card/main.png"
+        "images/cards/hay-card/main.png"
       ],
-      "thumbnail": "images/hay-card/main.png",
-      "category": "card",
-      "subcategory": "just saying hi"
+      "thumbnail": "images/cards/hay-card/main.png",
+      "category": "cards"
     },
     {
       "id": "moving-berry-sad-card",
@@ -247,11 +230,10 @@
       "price": 8,
       "priceDisplay": "$10",
       "images": [
-        "images/moving-berry-sad-card/main.png"
+        "images/cards/moving-berry-sad-card/main.png"
       ],
-      "thumbnail": "images/moving-berry-sad-card/main.png",
-      "category": "card",
-      "subcategory": "thinking of you"
+      "thumbnail": "images/cards/moving-berry-sad-card/main.png",
+      "category": "cards"
     },
     {
       "id": "portrait-card",
@@ -260,11 +242,10 @@
       "price": 8,
       "priceDisplay": "$40",
       "images": [
-        "images/portrait-card/main.png"
+        "images/cards/portrait-card/main.png"
       ],
-      "thumbnail": "images/portrait-card/main.png",
-      "category": "card",
-      "subcategory": "thinking of you"
+      "thumbnail": "images/cards/portrait-card/main.png",
+      "category": "cards"
     },
     {
       "id": "howdy-card",
@@ -273,11 +254,10 @@
       "price": 8,
       "priceDisplay": "$8",
       "images": [
-        "images/howdy-card/main.jpg"
+        "images/cards/howdy-card/main.jpg"
       ],
-      "thumbnail": "images/howdy-card/main.jpg",
-      "category": "card",
-      "subcategory": "just saying hi"
+      "thumbnail": "images/cards/howdy-card/main.jpg",
+      "category": "cards"
     },
     {
       "id": "thank-you-block-cards",
@@ -286,11 +266,10 @@
       "price": 15,
       "priceDisplay": "$15",
       "images": [
-        "images/thank-you-block-cards/main.jpg"
+        "images/cards/thank-you-block-cards/main.jpg"
       ],
-      "thumbnail": "images/thank-you-block-cards/main.jpg",
-      "category": "card",
-      "subcategory": "thank you"
+      "thumbnail": "images/cards/thank-you-block-cards/main.jpg",
+      "category": "cards"
     },
     {
       "id": "halloween-ghost-cards",
@@ -299,10 +278,10 @@
       "price": 15,
       "priceDisplay": "$15",
       "images": [
-        "images/halloween-ghost-card/1.jpg"
+        "images/cards/halloween-ghost-card/1.jpg"
       ],
-      "thumbnail": "images/halloween-ghost-card/1.jpg",
-      "category": "card",
+      "thumbnail": "images/cards/halloween-ghost-card/1.jpg",
+      "category": "cards",
       "subcategory": "halloween"
     },
     {
@@ -312,12 +291,11 @@
       "price": 15,
       "priceDisplay": "$15",
       "images": [
-        "images/happy-new-year-card/main.jpg",
-        "images/happy-new-year-card/2.jpg"
+        "images/cards/happy-new-year-card/main.jpg",
+        "images/caards/happy-new-year-card/2.jpg"
       ],
-      "thumbnail": "images/happy-new-year-card/main.jpg",
-      "category": "card",
-      "subcategory": "celebration"
+      "thumbnail": "images/cards/happy-new-year-card/main.jpg",
+      "category": "cards"
     },
     {
       "id": "thank-you",
@@ -326,16 +304,15 @@
       "price": 15,
       "priceDisplay": "$7",
       "images": [
-        "images/thank-you-card/main.jpg",
-        "images/thank-you-card/1.jpg",
-        "images/thank-you-card/2.jpg",
-        "images/thank-you-card/3.jpg",
-        "images/thank-you-card/4.jpg",
-        "images/thank-you-card/5.jpg"
+        "images/cards/thank-you-card/main.jpg",
+        "images/cards/thank-you-card/1.jpg",
+        "images/cards/thank-you-card/2.jpg",
+        "images/cards/thank-you-card/3.jpg",
+        "images/cards/thank-you-card/4.jpg",
+        "images/cards/thank-you-card/5.jpg"
       ],
-      "thumbnail": "images/thank-you-card/main.jpg",
-      "category": "card",
-      "subcategory": "thank you"
+      "thumbnail": "images/cards/thank-you-card/main.jpg",
+      "category": "cards"
     },
     {
       "id": "yarn-you",
@@ -344,11 +321,10 @@
       "price": 15,
       "priceDisplay": "$7",
       "images": [
-        "images/yarn-card/main.jpg"
+        "images/cards/yarn-card/main.jpg"
       ],
-      "thumbnail": "images/yarn-card/main.jpg",
-      "category": "card",
-      "subcategory": "just saying hi"
+      "thumbnail": "images/cards/yarn-card/main.jpg",
+      "category": "cards"
     },
     {
       "id": "dreamy-birthday-card",
@@ -357,11 +333,10 @@
       "price": 15,
       "priceDisplay": "$8",
       "images": [
-        "images/dreamy-birthday-card/image.jpg"
+        "images/cards/dreamy-birthday-card/image.jpg"
       ],
-      "thumbnail": "images/dreamy-birthday-card/image.jpg",
-      "category": "card",
-      "subcategory": "birthday"
+      "thumbnail": "images/cards/dreamy-birthday-card/image.jpg",
+      "category": "cards"
     },
     {
       "id": "pizza-birthday-card",
@@ -370,11 +345,10 @@
       "price": 15,
       "priceDisplay": "$15",
       "images": [
-        "images/pizza-birthday-card/main.jpg"
+        "images/cards/pizza-birthday-card/1.jpg"
       ],
-      "thumbnail": "images/pizza-birthday-card/main.jpg",
-      "category": "card",
-      "subcategory": "birthday"
+      "thumbnail": "images/cards/pizza-birthday-card/1.jpg",
+      "category": "cards"
     },
     {
       "id": "please-make-art-print",
@@ -383,14 +357,13 @@
       "price": 15,
       "priceDisplay": "$15",
       "images": [
-        "images/please-make-art-print/main.jpg",
-        "images/please-make-art-print/1.jpg",
-        "images/please-make-art-print/2.jpg",
-        "images/please-make-art-print/3.jpg"
+        "images/prints/please-make-art-print/main.jpg",
+        "images/prints/please-make-art-print/1.jpg",
+        "images/prints/please-make-art-print/2.jpg",
+        "images/prints/please-make-art-print/3.jpg"
       ],
-      "thumbnail": "images/please-make-art-print/main.jpg",
-      "category": "print",
-      "subcategory": "art print"
+      "thumbnail": "images/prints/please-make-art-print/main.jpg",
+      "category": "prints"
     },
     {
       "id": "this-must-be-the-place-felt",
@@ -399,11 +372,10 @@
       "price": 75,
       "priceDisplay": "75",
       "images": [
-        "images/this-must-be-the-place-felt/main.jpg"
+        "images/felt/this-must-be-the-place-felt/main.jpg"
       ],
-      "thumbnail": "images/this-must-be-the-place-felt/main.jpg",
-      "category": "felt-piece",
-      "subcategory": "home"
+      "thumbnail": "images/felt/this-must-be-the-place-felt/main.jpg",
+      "category": "felt"
     },
     {
       "id": "so-very-loved-felt",
@@ -412,11 +384,10 @@
       "price": 75,
       "priceDisplay": "75",
       "images": [
-        "images/so-very-loved-felt/main.jpg"
+        "images/felt/so-very-loved-felt/main.jpg"
       ],
-      "thumbnail": "images/so-very-loved-felt/main.jpg",
-      "category": "felt-piece",
-      "subcategory": "home"
+      "thumbnail": "images/felt/so-very-loved-felt/main.jpg",
+      "category": "felt"
     },
     {
       "id": "mystery-card-pack",
@@ -425,14 +396,13 @@
       "price": 20,
       "priceDisplay": "$20",
       "images": [
-        "images/mystery-card-pack/main.jpg",
-        "images/mystery-card-pack/1.jpg",
-        "images/mystery-card-pack/2.jpg",
-        "images/mystery-card-pack/3.jpg"
+        "images/cards/mystery-card-pack/main.jpg",
+        "images/cards/mystery-card-pack/1.jpg",
+        "images/cards/mystery-card-pack/2.jpg",
+        "images/cards/mystery-card-pack/3.jpg"
       ],
-      "thumbnail": "images/mystery-card-pack/main.jpg",
-      "category": "card",
-      "subcategory": "mix"
+      "thumbnail": "images/cards/mystery-card-pack/main.jpg",
+      "category": "cards"
     },
     {
       "id": "thank-you-flower-bouquet-card",
@@ -441,11 +411,10 @@
       "price": 15,
       "priceDisplay": "$15",
       "images": [
-        "images/thank-you-flower-bouquet-card/main.jpg"
+        "images/cards/thank-you-flower-bouquet-card/main.jpg"
       ],
-      "thumbnail": "images/thank-you-flower-bouquet-card/main.jpg",
-      "category": "card",
-      "subcategory": "thank you"
+      "thumbnail": "images/cards/thank-you-flower-bouquet-card/main.jpg",
+      "category": "cards"
     },
     {
       "id": "thank-you-script-card",
@@ -454,11 +423,10 @@
       "price": 15,
       "priceDisplay": "$15",
       "images": [
-        "images/thank-you-script-card/main.jpg"
+        "images/cards/thank-you-script-card/main.jpg"
       ],
-      "thumbnail": "images/thank-you-script-card/main.jpg",
-      "category": "card",
-      "subcategory": "thank you"
+      "thumbnail": "images/cards/thank-you-script-card/main.jpg",
+      "category": "cards"
     },
     {
       "id": "valentines-day-cards",
@@ -467,12 +435,11 @@
       "price": 15,
       "priceDisplay": "$15",
       "images": [
-        "images/valentines-day-cards/main.jpg",
-        "images/valentines-day-cards/1.jpg"
+        "images/cards/valentines-day-cards/main.jpg",
+        "images/cards/valentines-day-cards/1.jpg"
       ],
-      "thumbnail": "images/valentines-day-cards/main.jpg",
-      "category": "card",
-      "subcategory": "love"
+      "thumbnail": "images/cards/valentines-day-cards/main.jpg",
+      "category": "cards"
     },
     {
       "id": "witchy-birthday-cards",
@@ -481,11 +448,10 @@
       "price": 15,
       "priceDisplay": "$15",
       "images": [
-        "images/witchy-birthday-card/main.jpg"
+        "images/cards/witchy-birthday-card/main.jpg"
       ],
-      "thumbnail": "images/witchy-birthday-card/main.jpg",
-      "category": "card",
-      "subcategory": "halloween"
+      "thumbnail": "images/cards/witchy-birthday-card/main.jpg",
+      "category": "cards"
     },
     {
       "id": "poster-matrix",
@@ -497,8 +463,7 @@
         "images/commission/matrix/main.jpg"
       ],
       "thumbnail": "images/commission/matrix/main.jpg",
-      "category": "commission",
-      "subcategory": "event"
+      "category": "commission"
     },
     {
       "id": "wedding-save-the-date",
@@ -510,8 +475,7 @@
         "images/commission/wedding-save-the-date/main.jpg"
       ],
       "thumbnail": "images/commission/wedding-save-the-date/main.jpg",
-      "category": "commission",
-      "subcategory": "event"
+      "category": "commission"
     },
     {
       "id": "illustrated-portrait",
@@ -523,8 +487,7 @@
         "images/commission/illustrated-portrait/main.jpg", "images/portrait-card/main.png"
       ],
       "thumbnail": "images/commission/illustrated-portrait/main.jpg",
-      "category": "commission",
-      "subcategory": "portrait"
+      "category": "commission"
     },
     {
       "id": "paper-portrait",
@@ -549,8 +512,7 @@
         "images/commission/party-flyer/main.jpg"
       ],
       "thumbnail": "images/commission/party-flyer/main.jpg",
-      "category": "commission",
-      "subcategory": "event"
+      "category": "commission"
     },
     {
       "id": "commission-portrait",
@@ -562,8 +524,7 @@
         "images/commission/portrait/main.jpg"
       ],
       "thumbnail": "images/commission/portrait/main.jpg",
-      "category": "commission",
-      "subcategory": "portrait"
+      "category": "commission"
     },
     {
       "id": "commission-menus",
@@ -580,8 +541,7 @@
         "images/commission/menus/5.jpg"
       ],
       "thumbnail": "images/commission/menus/main.jpg",
-      "category": "commission",
-      "subcategory": "event"
+      "category": "commission"
     },
     {
       "id": "mailbox",
@@ -594,8 +554,7 @@
         "images/commission/mailbox/1.jpg"
       ],
       "thumbnail": "images/commission/mailbox/main.jpg",
-      "category": "commission",
-      "subcategory": "event"
+      "category": "commission"
     },
     {
       "id": "crochet-puzzle",
@@ -608,8 +567,7 @@
         "images/commission/crochet-puzzle/1.jpg"
       ],
       "thumbnail": "images/commission/crochet-puzzle/main.jpg",
-      "category": "commission",
-      "subcategory": "fun"
+      "category": "commission"
     },
     {
       "id": "love-letter-envelope",
@@ -623,8 +581,7 @@
         "images/paper/love-letter-envelope/2.jpg"
       ],
       "thumbnail": "images/paper/love-letter-envelope/main.jpg",
-      "category": "paper",
-      "subcategory": "paper"
+      "category": "paper"
     }
   ]
 }
