@@ -206,6 +206,76 @@
       "images": ["images/portrait-card/main.png"],
       "thumbnail": "images/portrait-card/main.png",
       "category": "card"
+    },
+        {
+      "id": "howdy-card",
+      "title": "Howdy Card",
+      "description": "Howdy Card. Includes handmade envelope.",
+      "price": 8,
+      "priceDisplay": "$8",
+      "images": ["images/howdy-card/main.jpg"],
+      "thumbnail": "images/howdy-card/main.jpg",
+      "category": "card"
+    },
+    {
+      "id": "thank-you-block-cards",
+      "title": "Thank You Block Cards",
+      "description": "Handmade thank you cards featuring colorful collage and fabric patterns. Each card is uniquely designed with layered decorative elements and comes with a matching envelope. Perfect for showing gratitude in style! $15 for a set of 4 cards or $5 individual.",
+      "price": 15,
+      "priceDisplay": "$15",
+      "images": ["images/thank-you-block-cards/main.jpg"],
+      "thumbnail": "images/thank-you-block-cards/main.jpg",
+      "category": "card"
+    },
+       {
+      "id": "halloween-ghost-cards",
+      "title": "Cute Halloween Ghost Card",
+      "description": "Spooky yet cute Halloween ghost card. Includes handmade envelope.",
+      "price": 15,
+      "priceDisplay": "$15",
+      "images": ["images/halloween-ghost-card/1.jpg"],
+      "thumbnail": "images/halloween-ghost-card/1.jpg",
+      "category": "card"
+    },
+    {
+      "id": "happy-new-year-card",
+      "title": "Happy New Year Card",
+      "description": "Festive New Year greeting card with vibrant hand-drawn typography and colorful envelope. Celebrate the new year with this cheerful design. Includes matching envelope.",
+      "price": 15,
+      "priceDisplay": "$15",
+      "images": ["images/happy-new-year-card/main.jpg", "images/happy-new-year-card/2.jpg"],
+      "thumbnail": "images/happy-new-year-card/main.jpg",
+      "category": "card"
+    },
+        {
+      "id": "thank-you",
+      "title": "Thank You ",
+      "description": "Handmade thank you cards featuring colorful collage and fabric patterns. Each card is uniquely designed with layered decorative elements and comes with a matching envelope. Perfect for showing gratitude in style! $15 for a set of 4 cards or $5 individual.",
+      "price": 15,
+      "priceDisplay": "$7",
+      "images": ["images/thank-you-card/main.jpg", "images/thank-you-card/1.jpg"],
+      "thumbnail": "images/thank-you-card/main.jpg",
+      "category": "card"
+    },
+    {
+      "id": "dreamy-birthday-card",
+      "title": "Wishing You a Dreamy Birthday Card",
+      "description": "Whimsical birthday card featuring soft pastel clouds and celestial elements with hand-drawn typography. Perfect for someone special! Includes matching envelope.",
+      "price": 15,
+      "priceDisplay": "$8",
+      "images": ["images/dreamy-birthday-card/image.jpg"],
+      "thumbnail": "images/dreamy-birthday-card/image.jpg",
+      "category": "card"
+    },
+    {
+      "id": "pizza-birthday-card",
+      "title": "Pizza Birthday Card",
+      "description": "Fun and quirky birthday card featuring a delicious pizza slice with candles and hand-lettered 'Happy Birthday' text. Perfect for pizza lovers! Includes matching envelope.",
+      "price": 15,
+      "priceDisplay": "$15",
+      "images": ["images/pizza-birthday-card/main.jpg"],
+      "thumbnail": "images/pizza-birthday-card/main.jpg",
+      "category": "card"
     }
   ]
 }
