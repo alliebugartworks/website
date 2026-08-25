@@ -1,0 +1,135 @@
+{
+  "artworks": [
+  
+    {
+      "id": "poster-matrix",
+      "title": "Flyer for Your Event",
+      "description": "",
+      "price": 15,
+      "priceDisplay": "$15",
+      "images": [
+        "images/commission/matrix/main.jpg"
+      ],
+      "thumbnail": "images/commission/matrix/main.jpg",
+      "category": "commission"
+    },
+    {
+      "id": "wedding-save-the-date",
+      "title": "Wedding Save the Date",
+      "description": "",
+      "price": 15,
+      "priceDisplay": "$15",
+      "images": [
+        "images/commission/wedding-save-the-date/main.jpg"
+      ],
+      "thumbnail": "images/commission/wedding-save-the-date/main.jpg",
+      "category": "commission"
+    },
+    {
+      "id": "illustrated-portrait",
+      "title": "Illustrated Portrait",
+      "description": "",
+      "price": 15,
+      "priceDisplay": "$15",
+      "images": [
+        "images/commission/illustrated-portrait/main.jpg", "images/portrait-card/main.png"
+      ],
+      "thumbnail": "images/commission/illustrated-portrait/main.jpg",
+      "category": "commission"
+    },
+    {
+      "id": "paper-portrait",
+      "title": "Paper Portrait",
+      "description": "",
+      "price": 15,
+      "priceDisplay": "$15",
+      "images": [
+        "images/commission/paper-portrait/main.jpg"
+      ],
+      "thumbnail": "images/commission/paper-portrait/main.jpg",
+      "category": "commission",
+      "subcategory": "portrait"
+    },
+    {
+      "id": "party-flyer",
+      "title": "Party Flyer",
+      "description": "",
+      "price": 15,
+      "priceDisplay": "$15",
+      "images": [
+        "images/commission/party-flyer/main.jpg"
+      ],
+      "thumbnail": "images/commission/party-flyer/main.jpg",
+      "category": "commission"
+    },
+    {
+      "id": "commission-portrait",
+      "title": "Portrait",
+      "description": "",
+      "price": 15,
+      "priceDisplay": "$15",
+      "images": [
+        "images/commission/portrait/main.jpg"
+      ],
+      "thumbnail": "images/commission/portrait/main.jpg",
+      "category": "commission"
+    },
+    {
+      "id": "commission-menus",
+      "title": "Dinner Menus",
+      "description": "",
+      "price": 15,
+      "priceDisplay": "$15",
+      "images": [
+        "images/commission/menus/main.jpg",
+        "images/commission/menus/1.jpg",
+        "images/commission/menus/2.jpg",
+        "images/commission/menus/3.jpg",
+        "images/commission/menus/4.jpg",
+        "images/commission/menus/5.jpg"
+      ],
+      "thumbnail": "images/commission/menus/main.jpg",
+      "category": "commission"
+    },
+    {
+      "id": "mailbox",
+      "title": "Mailbox Art",
+      "description": "",
+      "price": 15,
+      "priceDisplay": "$15",
+      "images": [
+        "images/commission/mailbox/main.jpg",
+        "images/commission/mailbox/1.jpg"
+      ],
+      "thumbnail": "images/commission/mailbox/main.jpg",
+      "category": "commission"
+    },
+    {
+      "id": "crochet-puzzle",
+      "title": "Crochet Puzzle",
+      "description": "",
+      "price": 15,
+      "priceDisplay": "$15",
+      "images": [
+        "images/commission/crochet-puzzle/main.jpg",
+        "images/commission/crochet-puzzle/1.jpg"
+      ],
+      "thumbnail": "images/commission/crochet-puzzle/main.jpg",
+      "category": "commission"
+    },
+    {
+      "id": "love-letter-envelope",
+      "title": "Love Letter Envelope",
+      "description": "",
+      "price": 15,
+      "priceDisplay": "$15",
+      "images": [
+        "images/paper/love-letter-envelope/main.jpg",
+        "images/paper/love-letter-envelope/1.jpg",
+        "images/paper/love-letter-envelope/2.jpg"
+      ],
+      "thumbnail": "images/paper/love-letter-envelope/main.jpg",
+      "category": "paper"
+    }
+  ]
+}

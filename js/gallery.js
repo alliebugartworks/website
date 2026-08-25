@@ -55,13 +55,23 @@ function createImageElement(src, alt) {
 }
 
 async function loadArtworks() {
-  const response = await fetch("data/artworks.json");
-  if (!response.ok) {
+  const cardsResponse = await fetch("data/cards.json");
+  const feltResponse = await fetch("data/felt.json");
+  const printResponse = await fetch("data/prints.json");
+  const paperResponse = await fetch("data/paper.json");
+  const commissionResponse = await fetch("data/commissions.json");
+
+  if (!cardsResponse.ok && !feltResponse.ok && !printResponse.ok && !paperResponse.ok && !commissionResponse.ok) {
     throw new Error("Could not load artworks.");
   }
 
-  const data = await response.json();
-  return data.artworks || [];
+  const cardsData = await cardsResponse.json();
+  const feltData = await feltResponse.json();
+  const printData = await printResponse.json();
+  const paperData = await paperResponse.json();
+  const commissionData = await commissionResponse.json();
+
+  return [...cardsData.artworks, ...feltData.artworks, ...printData.artworks, ...paperData.artworks, ...commissionData.artworks].filter((v, i, a) => a.findIndex((t) => t.id === v.id) === i);
 }
 
 function renderGallery(artworks) {
@@ -69,7 +79,7 @@ function renderGallery(artworks) {
   grid.innerHTML = "";
 
   if (artworks.length === 0) {
-    grid.innerHTML = '<p class="loading">No artwork listed yet. Add pieces in data/artworks.json.</p>';
+    grid.innerHTML = '<p class="loading">No artwork listed yet. Add pieces in json</p>';
     return;
   }
 

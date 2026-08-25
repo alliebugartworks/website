@@ -1,11 +1,22 @@
+
 async function loadArtworks() {
-  const response = await fetch("data/artworks.json");
-  if (!response.ok) {
+  const cardsResponse = await fetch("data/cards.json");
+  const feltResponse = await fetch("data/felt.json");
+  const printResponse = await fetch("data/prints.json");
+  const paperResponse = await fetch("data/paper.json");
+  const commissionResponse = await fetch("data/commissions.json");
+
+  if (!cardsResponse.ok && !feltResponse.ok && !printResponse.ok && !paperResponse.ok && !commissionResponse.ok) {
     throw new Error("Could not load artworks.");
   }
 
-  const data = await response.json();
-  return data.artworks || [];
+  const cardsData = await cardsResponse.json();
+  const feltData = await feltResponse.json();
+  const printData = await printResponse.json();
+  const paperData = await paperResponse.json();
+  const commissionData = await commissionResponse.json();
+
+  return [...cardsData.artworks, ...feltData.artworks, ...printData.artworks, ...paperData.artworks, ...commissionData.artworks].filter((v, i, a) => a.findIndex((t) => t.id === v.id) === i);
 }
 
 function formatCurrency(amount) {
@@ -203,11 +214,13 @@ function renderCart() {
                 (item) => `
                   <article class="cart-item" data-artwork-id="${item.id}">
                     <div class="cart-item-image">
+                    <a href="piece.html?id=${item.id}">
                       <img src="${item.thumbnail}" alt="${item.title}" loading="lazy">
+                      </a>
                     </div>
                     <div class="cart-item-details">
                       <div>
-                        <p class="cart-item-category">${(item.category === "felt-piece" ? "Felt piece" : item.category === "card" ? "Card" : "Artwork")}</p>
+                        <p class="cart-item-category">${(item.category === "felt" ? "Felt piece" : item.category === "card" ? "Card" : "Artwork")}</p>
                         <h2 class="cart-item-title">${item.title}</h2>
                       </div>
                       <div class="cart-item-meta">

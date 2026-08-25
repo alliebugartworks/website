@@ -1,17 +1,6 @@
 {
   "artworks": [
-    {
-      "id": "love-bad-bitches",
-      "title": "I Love Bad Bitches Banner",
-      "description": "This design was inspired by my sister's love as A$AP Rocky when she was a 17 year old girl. It is a felt and cotton fabric banner entirely handstitched with small beaded details, a solid border, and hanging loops on the back.",
-      "price": 100,
-      "priceDisplay": "$100",
-      "images": [
-        "images/felt/love-bad-bitches/main.jpg"
-      ],
-      "thumbnail": "images/felt/love-bad-bitches/main.jpg",
-      "category": "felt"
-    },
+   
     {
       "id": "very-hungry-boy-card",
       "title": "Very Hungry Boy Card",
@@ -23,85 +12,6 @@
       ],
       "thumbnail": "images/cards/very-hungry-boy-card/main.png",
       "category": "cards"
-    },
-    {
-      "id": "butter-banner",
-      "title": "Just Like Butter Wedding Banner",
-      "description": "This felt and cotton fabric banner was a wedding gift for friends who described their relationship like butter melting into mashed potatoes-a beautiful amalgamation of souls. I can include names and/or date for an additional $20.",
-      "price": 65,
-      "priceDisplay": "$65",
-      "images": [
-        "images/felt/butter-banner/Felt_butter1.png",
-        "images/felt/butter-banner/Felt_butter2.png"
-      ],
-      "thumbnail": "images/felt/butter-banner/Felt_butter1.png",
-      "category": "felt"
-    },
-    {
-      "id": "camp-banner",
-      "title": "Camp Banner",
-      "description": "My friends had a camp themed bachelorette party and I crafted this banner to help celebrate! I thrifted that beautiful green material for the base and handstitched every felt piece and bead on top. The disco ball, stars, and beadwork are optional for an additional $20. ",
-      "price": 75,
-      "priceDisplay": "$75",
-      "images": [
-        "images/felt/camp-banner/main.png",
-        "images/felt/camp-banner/image.png"
-      ],
-      "thumbnail": "images/felt/camp-banner/main.png",
-      "category": "felt"
-    },
-    {
-      "id": "name-banner",
-      "title": "Name Banner",
-      "description": "Handstitched felt name sign for your kiddo's room. You can pick colors from my felt library to completely customize the banner, or I'd love to surprise you with the final design. Ribbon adornment available for $5 and star additions are available for $10. ",
-      "price": 30,
-      "priceDisplay": "$30",
-      "images": [
-        "images/felt/casey-name/main.png",
-        "images/felt/jamie-name/main.png",
-        "images/felt/sophie-name/main.png"
-      ],
-      "thumbnail": "images/felt/casey-name/main.png",
-      "category": "felt"
-    },
-    {
-      "id": "hello-banner",
-      "title": "Hello Banner",
-      "description": "A bright, playful welcome banner made from hand-cut felt letters and layered color. The rainbow letters are stitched and assembled with a chunky, handmade finish that feels cheerful and nostalgic\u2014perfect for a nursery, playroom, or front entry.",
-      "price": 90,
-      "priceDisplay": "$90",
-      "images": [
-        "images/felt/hello-banner/main.jpg",
-        "images/felt/hello-banner/1.jpg"
-      ],
-      "thumbnail": "images/felt/hello-banner/main.jpg",
-      "category": "felt"
-    },
-    {
-      "id": "nursery-banner",
-      "title": "Wished Upon a Star Nursery Banner Set",
-      "description": "A dreamy night-sky nursery banner with puff clouds, a gold star, and soft pastel colors. This hand-stitched felt piece is designed to feel gentle and whimsical, bringing a cozy celestial mood to a nursery, reading nook, or baby's room.",
-      "price": 90,
-      "priceDisplay": "$90",
-      "images": [
-        "images/felt/nursery-banner/222.jpg",
-        "images/felt/nursery-banner/1.jpg",
-        "images/felt/nursery-banner/main.jpg"
-      ],
-      "thumbnail": "images/felt/nursery-banner/222.jpg",
-      "category": "felt"
-    },
-    {
-      "id": "custom-commission",
-      "title": "Custom Commission",
-      "description": "Commission a one-of-a-kind felt piece for a gift, nursery, celebration, or special memory. Tell me what you're envisioning below and choose any details you'd like included.",
-      "price": 100,
-      "priceDisplay": "$100",
-      "images": [
-        "images/felt/casey-name/main.png"
-      ],
-      "thumbnail": "images/felt/casey-name/main.png",
-      "category": "felt"
     },
     {
       "id": "handmade-cards",
@@ -281,8 +191,7 @@
         "images/cards/halloween-ghost-card/1.jpg"
       ],
       "thumbnail": "images/cards/halloween-ghost-card/1.jpg",
-      "category": "cards",
-      "subcategory": "halloween"
+      "category": "cards"
     },
     {
       "id": "happy-new-year-card",
@@ -350,45 +259,7 @@
       "thumbnail": "images/cards/pizza-birthday-card/1.jpg",
       "category": "cards"
     },
-    {
-      "id": "please-make-art-print",
-      "title": "Please Make Art Print",
-      "description": "",
-      "price": 15,
-      "priceDisplay": "$15",
-      "images": [
-        "images/prints/please-make-art-print/main.jpg",
-        "images/prints/please-make-art-print/1.jpg",
-        "images/prints/please-make-art-print/2.jpg",
-        "images/prints/please-make-art-print/3.jpg"
-      ],
-      "thumbnail": "images/prints/please-make-art-print/main.jpg",
-      "category": "prints"
-    },
-    {
-      "id": "this-must-be-the-place-felt",
-      "title": "This Must Be The Place Felt Piece",
-      "description": "",
-      "price": 75,
-      "priceDisplay": "75",
-      "images": [
-        "images/felt/this-must-be-the-place-felt/main.jpg"
-      ],
-      "thumbnail": "images/felt/this-must-be-the-place-felt/main.jpg",
-      "category": "felt"
-    },
-    {
-      "id": "so-very-loved-felt",
-      "title": "So Very Loved Felt Piece",
-      "description": "",
-      "price": 75,
-      "priceDisplay": "75",
-      "images": [
-        "images/felt/so-very-loved-felt/main.jpg"
-      ],
-      "thumbnail": "images/felt/so-very-loved-felt/main.jpg",
-      "category": "felt"
-    },
+    
     {
       "id": "mystery-card-pack",
       "title": "Mystery Card Pack",
@@ -452,136 +323,6 @@
       ],
       "thumbnail": "images/cards/witchy-birthday-card/main.jpg",
       "category": "cards"
-    },
-    {
-      "id": "poster-matrix",
-      "title": "Flyer for Your Event",
-      "description": "",
-      "price": 15,
-      "priceDisplay": "$15",
-      "images": [
-        "images/commission/matrix/main.jpg"
-      ],
-      "thumbnail": "images/commission/matrix/main.jpg",
-      "category": "commission"
-    },
-    {
-      "id": "wedding-save-the-date",
-      "title": "Wedding Save the Date",
-      "description": "",
-      "price": 15,
-      "priceDisplay": "$15",
-      "images": [
-        "images/commission/wedding-save-the-date/main.jpg"
-      ],
-      "thumbnail": "images/commission/wedding-save-the-date/main.jpg",
-      "category": "commission"
-    },
-    {
-      "id": "illustrated-portrait",
-      "title": "Illustrated Portrait",
-      "description": "",
-      "price": 15,
-      "priceDisplay": "$15",
-      "images": [
-        "images/commission/illustrated-portrait/main.jpg", "images/portrait-card/main.png"
-      ],
-      "thumbnail": "images/commission/illustrated-portrait/main.jpg",
-      "category": "commission"
-    },
-    {
-      "id": "paper-portrait",
-      "title": "Paper Portrait",
-      "description": "",
-      "price": 15,
-      "priceDisplay": "$15",
-      "images": [
-        "images/commission/paper-portrait/main.jpg"
-      ],
-      "thumbnail": "images/commission/paper-portrait/main.jpg",
-      "category": "commission",
-      "subcategory": "portrait"
-    },
-    {
-      "id": "party-flyer",
-      "title": "Party Flyer",
-      "description": "",
-      "price": 15,
-      "priceDisplay": "$15",
-      "images": [
-        "images/commission/party-flyer/main.jpg"
-      ],
-      "thumbnail": "images/commission/party-flyer/main.jpg",
-      "category": "commission"
-    },
-    {
-      "id": "commission-portrait",
-      "title": "Portrait",
-      "description": "",
-      "price": 15,
-      "priceDisplay": "$15",
-      "images": [
-        "images/commission/portrait/main.jpg"
-      ],
-      "thumbnail": "images/commission/portrait/main.jpg",
-      "category": "commission"
-    },
-    {
-      "id": "commission-menus",
-      "title": "Dinner Menus",
-      "description": "",
-      "price": 15,
-      "priceDisplay": "$15",
-      "images": [
-        "images/commission/menus/main.jpg",
-        "images/commission/menus/1.jpg",
-        "images/commission/menus/2.jpg",
-        "images/commission/menus/3.jpg",
-        "images/commission/menus/4.jpg",
-        "images/commission/menus/5.jpg"
-      ],
-      "thumbnail": "images/commission/menus/main.jpg",
-      "category": "commission"
-    },
-    {
-      "id": "mailbox",
-      "title": "Mailbox Art",
-      "description": "",
-      "price": 15,
-      "priceDisplay": "$15",
-      "images": [
-        "images/commission/mailbox/main.jpg",
-        "images/commission/mailbox/1.jpg"
-      ],
-      "thumbnail": "images/commission/mailbox/main.jpg",
-      "category": "commission"
-    },
-    {
-      "id": "crochet-puzzle",
-      "title": "Crochet Puzzle",
-      "description": "",
-      "price": 15,
-      "priceDisplay": "$15",
-      "images": [
-        "images/commission/crochet-puzzle/main.jpg",
-        "images/commission/crochet-puzzle/1.jpg"
-      ],
-      "thumbnail": "images/commission/crochet-puzzle/main.jpg",
-      "category": "commission"
-    },
-    {
-      "id": "love-letter-envelope",
-      "title": "Love Letter Envelope",
-      "description": "",
-      "price": 15,
-      "priceDisplay": "$15",
-      "images": [
-        "images/paper/love-letter-envelope/main.jpg",
-        "images/paper/love-letter-envelope/1.jpg",
-        "images/paper/love-letter-envelope/2.jpg"
-      ],
-      "thumbnail": "images/paper/love-letter-envelope/main.jpg",
-      "category": "paper"
     }
   ]
 }

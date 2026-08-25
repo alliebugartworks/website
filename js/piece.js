@@ -12,7 +12,7 @@ function formatPrice(artwork) {
 }
 
 function getCategoryLabel(category) {
-  if (category === "felt-piece") return "Felt piece";
+  if (category === "felt") return "Felt piece";
   if (category === "card") return "Card";
   return "Artwork";
 }
@@ -48,15 +48,24 @@ function createImageElement(src, alt) {
 
   return img;
 }
-
 async function loadArtworks() {
-  const response = await fetch("data/artworks.json");
-  if (!response.ok) {
+  const cardsResponse = await fetch("data/cards.json");
+  const feltResponse = await fetch("data/felt.json");
+  const printResponse = await fetch("data/prints.json");
+  const paperResponse = await fetch("data/paper.json");
+  const commissionResponse = await fetch("data/commissions.json");
+
+  if (!cardsResponse.ok && !feltResponse.ok && !printResponse.ok && !paperResponse.ok && !commissionResponse.ok) {
     throw new Error("Could not load artworks.");
   }
 
-  const data = await response.json();
-  return data.artworks || [];
+  const cardsData = await cardsResponse.json();
+  const feltData = await feltResponse.json();
+  const printData = await printResponse.json();
+  const paperData = await paperResponse.json();
+  const commissionData = await commissionResponse.json();
+
+  return [...cardsData.artworks, ...feltData.artworks, ...printData.artworks, ...paperData.artworks, ...commissionData.artworks].filter((v, i, a) => a.findIndex((t) => t.id === v.id) === i);
 }
 
 function renderPiece(artwork, siteConfig) {

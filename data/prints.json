@@ -1,0 +1,19 @@
+{
+  "artworks": [
+    {
+      "id": "please-make-art-print",
+      "title": "Please Make Art Print",
+      "description": "",
+      "price": 15,
+      "priceDisplay": "$15",
+      "images": [
+        "images/prints/please-make-art-print/main.jpg",
+        "images/prints/please-make-art-print/1.jpg",
+        "images/prints/please-make-art-print/2.jpg",
+        "images/prints/please-make-art-print/3.jpg"
+      ],
+      "thumbnail": "images/prints/please-make-art-print/main.jpg",
+      "category": "prints"
+    }
+  ]
+}

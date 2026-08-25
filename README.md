@@ -5,7 +5,7 @@ A static art portfolio site. No build step required — edit JSON, drop in image
 ## Quick start
 
 1. **Edit your contact info** in `data/site.json`
-2. **Add artwork** in `data/artworks.json`
+2. **Add artwork** in `data/****.json`
 3. **Add photos** to the `images/` folder
 4. **Preview locally** (needs a simple local server because of JSON fetch):
 
@@ -97,6 +97,6 @@ allie-bug-studio/
 │   └── piece.js        # Detail page
 ├── data/
 │   ├── site.json       # Your name, phone, Venmo
-│   └── artworks.json   # All pieces
+│   └── ****.json       # pieces
 └── images/             # Artwork photos
 ```

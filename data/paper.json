@@ -1,0 +1,18 @@
+{
+  "artworks": [
+    {
+      "id": "love-letter-envelope",
+      "title": "Love Letter Envelope",
+      "description": "",
+      "price": 15,
+      "priceDisplay": "$15",
+      "images": [
+        "images/paper/love-letter-envelope/main.jpg",
+        "images/paper/love-letter-envelope/1.jpg",
+        "images/paper/love-letter-envelope/2.jpg"
+      ],
+      "thumbnail": "images/paper/love-letter-envelope/main.jpg",
+      "category": "paper"
+    }
+  ]
+}
