@@ -253,8 +253,18 @@
       "description": "Handmade thank you cards featuring colorful collage and fabric patterns. Each card is uniquely designed with layered decorative elements and comes with a matching envelope. Perfect for showing gratitude in style! $15 for a set of 4 cards or $5 individual.",
       "price": 15,
       "priceDisplay": "$7",
-      "images": ["images/thank-you-card/main.jpg", "images/thank-you-card/1.jpg"],
+      "images": ["images/thank-you-card/main.jpg", "images/thank-you-card/1.jpg","images/thank-you-card/2.jpg","images/thank-you-card/3.jpg","images/thank-you-card/4.jpg","images/thank-you-card/5.jpg"],
       "thumbnail": "images/thank-you-card/main.jpg",
+      "category": "card"
+    },
+            {
+      "id": "yarn-you",
+      "title": "Yarn Card ",
+      "description": "Cute card for the yarn lover in your life. Perfect for birthdays, thank yous, or just because! Includes a matching envelope.",
+      "price": 15,
+      "priceDisplay": "$7",
+      "images": ["images/yarn-card/main.jpg"],
+      "thumbnail": "images/yarn-card/main.jpg",
       "category": "card"
     },
     {
@@ -276,6 +286,26 @@
       "images": ["images/pizza-birthday-card/main.jpg"],
       "thumbnail": "images/pizza-birthday-card/main.jpg",
       "category": "card"
+    },
+        {
+      "id": "please-make-art-print",
+      "title": "Please Make Art Print",
+      "description": "",
+      "price": 15,
+      "priceDisplay": "$15",
+      "images": ["images/please-make-art-print/main.jpg","images/please-make-art-print/1.jpg","images/please-make-art-print/2.jpg","images/please-make-art-print/3.jpg"],
+      "thumbnail": "images/please-make-art-print/main.jpg",
+      "category": "print"
+    },
+            {
+      "id": "this-must-be-the-place-felt",
+      "title": "This Must Be The Place Felt Piece",
+      "description": "",
+      "price": 15,
+      "priceDisplay": "$15",
+      "images": ["images/this-must-be-the-place-felt/main.jpg"],
+      "thumbnail": "images/this-must-be-the-place-felt/main.jpg",
+      "category": "felt-piece"
     }
   ]
 }
