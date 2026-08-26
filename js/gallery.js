@@ -7,7 +7,7 @@ function formatPrice(artwork) {
 }
 
 function getCategoryLabel(category) {
-  if (category === "felt-piece") return "Felt piece";
+  if (category === "felt") return "Felt";
   if (category === "card") return "Card";
   return "Artwork";
 }
@@ -15,7 +15,7 @@ function getCategoryLabel(category) {
 const filterDescriptions = {
   all: "Tap any piece to view details, photos, and pricing. You can order any of these pieces as is, customize, or work with me to commission a new piece.",
   card: "Original handmade cards for birthdays, celebrations, and everyday moments. Each one is designed with a little extra personality and can be customized for your occasion.",
-  "felt-piece": "Hand-stitched felt pieces and banners made with layered color, texture, and small details. Many can be customized or adapted into a one-of-a-kind commission."
+  "felt": "Hand-stitched felt pieces and banners made with layered color, texture, and small details. Many can be customized or adapted into a one-of-a-kind commission."
 };
 
 const filterTitles = {
@@ -23,6 +23,7 @@ const filterTitles = {
   card: "Cards",
   "felt-piece": "Felt Pieces"
 };
+
 
 function setGalleryTitle(filter) {
   const title = document.querySelector(".hero h1");
@@ -71,7 +72,7 @@ async function loadArtworks() {
   const paperData = await paperResponse.json();
   const commissionData = await commissionResponse.json();
 
-  return [...cardsData.artworks, ...feltData.artworks, ...printData.artworks, ...paperData.artworks, ...commissionData.artworks].filter((v, i, a) => a.findIndex((t) => t.id === v.id) === i);
+  return [...feltData.artworks, ...cardsData.artworks, ...printData.artworks, ...paperData.artworks, ...commissionData.artworks].filter((v, i, a) => a.findIndex((t) => t.id === v.id) === i);
 }
 
 function renderGallery(artworks) {
@@ -131,7 +132,22 @@ function renderGallery(artworks) {
     grid.appendChild(card);
   });
 }
+function wireSubcategoryButtons(allArtworks) {
+  const buttons = document.querySelectorAll(".card-filter-button");
+  buttons.forEach((button) => {
+    button.addEventListener("click", () => {
+      const filter = button.dataset.filter;
+      buttons.forEach((item) => item.classList.toggle("active", item === button));
 
+      if(filter === "all") {
+        returrn;
+      }
+      const filteredArtworks = allArtworks.filter((artwork) => artwork.subcategory === filter);
+      renderGallery(filteredArtworks);
+    });
+  }
+  )
+}
 function wireFilterButtons(allArtworks) {
   const buttons = document.querySelectorAll(".filter-button");
   const grid = document.getElementById("gallery-grid");
@@ -139,7 +155,6 @@ function wireFilterButtons(allArtworks) {
   buttons.forEach((button) => {
     button.addEventListener("click", () => {
       const filter = button.dataset.filter;
-
       buttons.forEach((item) => item.classList.toggle("active", item === button));
       setGalleryTitle(filter);
       setGallerySubtitle(filter);
@@ -147,6 +162,13 @@ function wireFilterButtons(allArtworks) {
       if (filter === "all") {
         renderGallery(allArtworks);
         return;
+      }
+      if (filter === "cards") {
+        document.querySelector(".subcategory-toolbar").style.visibility = "visible";
+        return;
+      } else {
+        document.querySelector(".subcategory-toolbar").style.visibility = "hidden";
+
       }
 
       const filteredArtworks = allArtworks.filter((artwork) => artwork.category === filter);
@@ -168,6 +190,7 @@ async function initGallery() {
     setGallerySubtitle("all");
     renderGallery(artworks);
     wireFilterButtons(artworks);
+    wireSubcategoryButtons(artworks);
   } catch (error) {
     grid.innerHTML = `<p class="error-message">${error.message}</p>`;
   }

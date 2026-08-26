@@ -1,6 +1,5 @@
 {
   "artworks": [
-   
     {
       "id": "very-hungry-boy-card",
       "title": "Very Hungry Boy Card",
@@ -11,7 +10,8 @@
         "images/cards/very-hungry-boy-card/main.png"
       ],
       "thumbnail": "images/cards/very-hungry-boy-card/main.png",
-      "category": "cards"
+      "category": "cards",
+      "subcategory": "birthday"
     },
     {
       "id": "handmade-cards",
@@ -35,7 +35,8 @@
         "images/cards/thank-you-stamp-cards/main.jpg"
       ],
       "thumbnail": "images/cards/thank-you-stamp-cards/main.jpg",
-      "category": "cards"
+      "category": "cards",
+      "subcategory": "thankyou"
     },
     {
       "id": "halloween-card",
@@ -47,7 +48,8 @@
         "images/cards/halloween-card/main.jpg"
       ],
       "thumbnail": "images/cards/halloween-card/main.jpg",
-      "category": "cards"
+      "category": "cards",
+      "subcategory": "halloween"
     },
     {
       "id": "hand-drawn-engaged",
@@ -59,7 +61,8 @@
         "images/cards/hand-drawn-engaged/main.jpg"
       ],
       "thumbnail": "images/cards/hand-drawn-engaged/main.jpg",
-      "category": "cards"
+      "category": "cards",
+      "subcategory": "wedding"
     },
     {
       "id": "new-home-card",
@@ -71,7 +74,8 @@
         "images/cards/new-home-card/main.jpg"
       ],
       "thumbnail": "images/cards/new-home-card/main.jpg",
-      "category": "cards"
+      "category": "cards",
+           "subcategory": "celebration"
     },
     {
       "id": "wedding-card",
@@ -83,7 +87,8 @@
         "images/cards/wedding-card/main.jpg"
       ],
       "thumbnail": "images/cards/wedding-card/main.jpg",
-      "category": "cards"
+      "category": "cards",
+      "subcategory": "wedding"
     },
     {
       "id": "wedding-card-moon",
@@ -95,7 +100,8 @@
         "images/cards/wedding-card-moon/main.jpg"
       ],
       "thumbnail": "images/cards/wedding-card-moon/main.jpg",
-      "category": "cards"
+      "category": "cards",
+      "subcategory": "wedding"
     },
     {
       "id": "anniversary-card",
@@ -107,7 +113,8 @@
         "images/cards/anniversary-card/main.png"
       ],
       "thumbnail": "images/anniversary-card/main.png",
-      "category": "cards"
+      "category": "cards",
+      "subcategory": "wedding"
     },
     {
       "id": "birthday-card",
@@ -119,7 +126,8 @@
         "images/cards/birthday-card/main.png"
       ],
       "thumbnail": "images/cards/birthday-card/main.png",
-      "category": "cards"
+      "category": "cards",
+      "subcategory": "birthday"
     },
     {
       "id": "hay-card",
@@ -131,7 +139,8 @@
         "images/cards/hay-card/main.png"
       ],
       "thumbnail": "images/cards/hay-card/main.png",
-      "category": "cards"
+      "category": "cards",
+      "subcategory": "hello"
     },
     {
       "id": "moving-berry-sad-card",
@@ -155,7 +164,8 @@
         "images/cards/portrait-card/main.png"
       ],
       "thumbnail": "images/cards/portrait-card/main.png",
-      "category": "cards"
+      "category": "cards",
+      "subcategory": "wedding"
     },
     {
       "id": "howdy-card",
@@ -167,19 +177,8 @@
         "images/cards/howdy-card/main.jpg"
       ],
       "thumbnail": "images/cards/howdy-card/main.jpg",
-      "category": "cards"
-    },
-    {
-      "id": "thank-you-block-cards",
-      "title": "Thank You Block Cards",
-      "description": "Handmade thank you cards featuring colorful collage and fabric patterns. Each card is uniquely designed with layered decorative elements and comes with a matching envelope. Perfect for showing gratitude in style! $15 for a set of 4 cards or $5 individual.",
-      "price": 15,
-      "priceDisplay": "$15",
-      "images": [
-        "images/cards/thank-you-block-cards/main.jpg"
-      ],
-      "thumbnail": "images/cards/thank-you-block-cards/main.jpg",
-      "category": "cards"
+      "category": "cards",
+      "subcategory": "hello"
     },
     {
       "id": "halloween-ghost-cards",
@@ -191,7 +190,8 @@
         "images/cards/halloween-ghost-card/1.jpg"
       ],
       "thumbnail": "images/cards/halloween-ghost-card/1.jpg",
-      "category": "cards"
+      "category": "cards",
+      "subcategory": "halloween"
     },
     {
       "id": "happy-new-year-card",
@@ -204,7 +204,8 @@
         "images/caards/happy-new-year-card/2.jpg"
       ],
       "thumbnail": "images/cards/happy-new-year-card/main.jpg",
-      "category": "cards"
+      "category": "cards",
+      "subcategory": "celebration"
     },
     {
       "id": "thank-you",
@@ -221,7 +222,8 @@
         "images/cards/thank-you-card/5.jpg"
       ],
       "thumbnail": "images/cards/thank-you-card/main.jpg",
-      "category": "cards"
+      "category": "cards",
+      "subcategory": "thankyou"
     },
     {
       "id": "yarn-you",
@@ -233,7 +235,8 @@
         "images/cards/yarn-card/main.jpg"
       ],
       "thumbnail": "images/cards/yarn-card/main.jpg",
-      "category": "cards"
+      "category": "cards",
+      "subcategory": "birthday"
     },
     {
       "id": "dreamy-birthday-card",
@@ -245,7 +248,8 @@
         "images/cards/dreamy-birthday-card/image.jpg"
       ],
       "thumbnail": "images/cards/dreamy-birthday-card/image.jpg",
-      "category": "cards"
+      "category": "cards",
+      "subcategory": "birthday"
     },
     {
       "id": "pizza-birthday-card",
@@ -257,9 +261,9 @@
         "images/cards/pizza-birthday-card/1.jpg"
       ],
       "thumbnail": "images/cards/pizza-birthday-card/1.jpg",
-      "category": "cards"
+      "category": "cards",
+      "subcategory": "birthday"
     },
-    
     {
       "id": "mystery-card-pack",
       "title": "Mystery Card Pack",
@@ -285,7 +289,8 @@
         "images/cards/thank-you-flower-bouquet-card/main.jpg"
       ],
       "thumbnail": "images/cards/thank-you-flower-bouquet-card/main.jpg",
-      "category": "cards"
+      "category": "cards",
+      "subcategory": "thankyou"
     },
     {
       "id": "thank-you-script-card",
@@ -297,7 +302,8 @@
         "images/cards/thank-you-script-card/main.jpg"
       ],
       "thumbnail": "images/cards/thank-you-script-card/main.jpg",
-      "category": "cards"
+      "category": "cards",
+      "subcategory": "thankyou"
     },
     {
       "id": "valentines-day-cards",
@@ -310,7 +316,8 @@
         "images/cards/valentines-day-cards/1.jpg"
       ],
       "thumbnail": "images/cards/valentines-day-cards/main.jpg",
-      "category": "cards"
+      "category": "cards",
+      "subcategory": "celebration"
     },
     {
       "id": "witchy-birthday-cards",
@@ -322,7 +329,8 @@
         "images/cards/witchy-birthday-card/main.jpg"
       ],
       "thumbnail": "images/cards/witchy-birthday-card/main.jpg",
-      "category": "cards"
+      "category": "cards",
+      "subcategory": "halloween"
     }
   ]
 }

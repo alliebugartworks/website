@@ -1,5 +1,43 @@
 {
   "artworks": [
+      {
+      "id": "hello-banner",
+      "title": "Hello Banner",
+      "description": "A bright, playful welcome banner made from hand-cut felt letters and layered color. The rainbow letters are stitched and assembled with a chunky, handmade finish that feels cheerful and nostalgic\u2014perfect for a nursery, playroom, or front entry.",
+      "price": 90,
+      "priceDisplay": "$90",
+      "images": [
+        "images/felt/hello-banner/main.jpg",
+        "images/felt/hello-banner/1.jpg"
+      ],
+      "thumbnail": "images/felt/hello-banner/main.jpg",
+      "category": "felt"
+    },
+    {
+      "id": "so-very-loved-felt",
+      "title": "So Very Loved Felt Piece",
+      "description": "",
+      "price": 75,
+      "priceDisplay": "75",
+      "images": [
+        "images/felt/so-very-loved-felt/main.jpg"
+      ],
+      "thumbnail": "images/felt/so-very-loved-felt/main.jpg",
+      "category": "felt"
+    },
+        {
+      "id": "camp-banner",
+      "title": "Camp Banner",
+      "description": "My friends had a camp themed bachelorette party and I crafted this banner to help celebrate! I thrifted that beautiful green material for the base and handstitched every felt piece and bead on top. The disco ball, stars, and beadwork are optional for an additional $20. ",
+      "price": 75,
+      "priceDisplay": "$75",
+      "images": [
+        "images/felt/camp-banner/main.png",
+        "images/felt/camp-banner/image.png"
+      ],
+      "thumbnail": "images/felt/camp-banner/main.png",
+      "category": "felt"
+    },
     {
       "id": "love-bad-bitches",
       "title": "I Love Bad Bitches Banner",
@@ -27,19 +65,6 @@
       "category": "felt"
     },
     {
-      "id": "camp-banner",
-      "title": "Camp Banner",
-      "description": "My friends had a camp themed bachelorette party and I crafted this banner to help celebrate! I thrifted that beautiful green material for the base and handstitched every felt piece and bead on top. The disco ball, stars, and beadwork are optional for an additional $20. ",
-      "price": 75,
-      "priceDisplay": "$75",
-      "images": [
-        "images/felt/camp-banner/main.png",
-        "images/felt/camp-banner/image.png"
-      ],
-      "thumbnail": "images/felt/camp-banner/main.png",
-      "category": "felt"
-    },
-    {
       "id": "name-banner",
       "title": "Name Banner",
       "description": "Handstitched felt name sign for your kiddo's room. You can pick colors from my felt library to completely customize the banner, or I'd love to surprise you with the final design. Ribbon adornment available for $5 and star additions are available for $10. ",
@@ -53,19 +78,7 @@
       "thumbnail": "images/felt/casey-name/main.png",
       "category": "felt"
     },
-    {
-      "id": "hello-banner",
-      "title": "Hello Banner",
-      "description": "A bright, playful welcome banner made from hand-cut felt letters and layered color. The rainbow letters are stitched and assembled with a chunky, handmade finish that feels cheerful and nostalgic\u2014perfect for a nursery, playroom, or front entry.",
-      "price": 90,
-      "priceDisplay": "$90",
-      "images": [
-        "images/felt/hello-banner/main.jpg",
-        "images/felt/hello-banner/1.jpg"
-      ],
-      "thumbnail": "images/felt/hello-banner/main.jpg",
-      "category": "felt"
-    },
+  
     {
       "id": "nursery-banner",
       "title": "Wished Upon a Star Nursery Banner Set",
@@ -103,18 +116,6 @@
         "images/felt/this-must-be-the-place-felt/main.jpg"
       ],
       "thumbnail": "images/felt/this-must-be-the-place-felt/main.jpg",
-      "category": "felt"
-    },
-    {
-      "id": "so-very-loved-felt",
-      "title": "So Very Loved Felt Piece",
-      "description": "",
-      "price": 75,
-      "priceDisplay": "75",
-      "images": [
-        "images/felt/so-very-loved-felt/main.jpg"
-      ],
-      "thumbnail": "images/felt/so-very-loved-felt/main.jpg",
       "category": "felt"
     }
   ]

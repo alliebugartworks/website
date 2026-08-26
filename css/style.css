@@ -940,3 +940,29 @@ a:hover {
   text-align: center;
   padding: 1rem;
 }
+
+.subcategory-toolbar {
+  visibility: hidden;
+  margin-left: 5%;
+  margin-bottom: 1%;
+  margin-top: -1%;
+  border-top: -1%;
+}
+
+.card-filter-button {
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text);
+  border-radius: 999px;
+  padding: 0.6rem 1rem;
+  font: inherit;
+  font-weight: 100;
+  font-size: 0.9rem;
+  line-height: 1.5rem;
+}
+
+.card-filter-button.active {
+  background: var(--color-accent);
+  border-color: var(--color-accent);
+  color: #fff;
+}

@@ -12,7 +12,7 @@ function formatPrice(artwork) {
 }
 
 function getCategoryLabel(category) {
-  if (category === "felt") return "Felt piece";
+  if (category === "felt") return "Felt";
   if (category === "card") return "Card";
   return "Artwork";
 }
