@@ -83,7 +83,6 @@ function renderGallery(artworks) {
     grid.innerHTML = '<p class="loading">No artwork listed yet. Add pieces in json</p>';
     return;
   }
-
   artworks.forEach((artwork) => {
     const card = document.createElement("article");
     card.className = "art-card";
@@ -139,8 +138,10 @@ function wireSubcategoryButtons(allArtworks) {
       const filter = button.dataset.filter;
       buttons.forEach((item) => item.classList.toggle("active", item === button));
 
-      if(filter === "all") {
-        returrn;
+      if (filter === "all") {
+        const cards = allArtworks.filter((artwork) => artwork.category === "cards");
+        renderGallery(cards);
+        return;
       }
       const filteredArtworks = allArtworks.filter((artwork) => artwork.subcategory === filter);
       renderGallery(filteredArtworks);
@@ -155,6 +156,9 @@ function wireFilterButtons(allArtworks) {
   buttons.forEach((button) => {
     button.addEventListener("click", () => {
       const filter = button.dataset.filter;
+      const url = new URL(window.location.href);
+      url.searchParams.set('filter', filter);
+      window.history.pushState({}, '', url);
       buttons.forEach((item) => item.classList.toggle("active", item === button));
       setGalleryTitle(filter);
       setGallerySubtitle(filter);
@@ -165,7 +169,6 @@ function wireFilterButtons(allArtworks) {
       }
       if (filter === "cards") {
         document.querySelector(".subcategory-toolbar").style.visibility = "visible";
-        return;
       } else {
         document.querySelector(".subcategory-toolbar").style.visibility = "hidden";
 
@@ -186,9 +189,23 @@ async function initGallery() {
 
   try {
     const artworks = await loadArtworks();
-    setGalleryTitle("all");
-    setGallerySubtitle("all");
-    renderGallery(artworks);
+
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    const filter = urlParams.get('filter');
+
+    if (filter) {
+      const filteredArtworks = artworks.filter((artwork) => artwork.category === filter);
+      setGalleryTitle(filter);
+      setGallerySubtitle("filter");
+      renderGallery(filteredArtworks);
+      const buttons = document.querySelectorAll(".filter-button");
+      buttons.forEach((item) => item.dataset.filter === filter ? item.classList.add("active") : item.classList.remove("active"))
+    } else {
+      setGalleryTitle("all");
+      setGallerySubtitle("all");
+      renderGallery(artworks);
+    }
     wireFilterButtons(artworks);
     wireSubcategoryButtons(artworks);
   } catch (error) {
