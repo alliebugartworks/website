@@ -24,6 +24,7 @@
       ],
       "thumbnail": "images/cards/handmade-cards/main.jpg",
       "category": "cards"
+      "subcategory": "celebration"
     },
     {
       "id": "thank-you-stamp-cards",
@@ -75,7 +76,7 @@
       ],
       "thumbnail": "images/cards/new-home-card/main.jpg",
       "category": "cards",
-           "subcategory": "celebration"
+      "subcategory": "celebration"
     },
     {
       "id": "wedding-card",
@@ -153,6 +154,7 @@
       ],
       "thumbnail": "images/cards/moving-berry-sad-card/main.png",
       "category": "cards"
+      "subcategory": "hello"
     },
     {
       "id": "portrait-card",
@@ -278,6 +280,7 @@
       ],
       "thumbnail": "images/cards/mystery-card-pack/main.jpg",
       "category": "cards"
+      "subcategory": "hello"
     },
     {
       "id": "thank-you-flower-bouquet-card",
@@ -330,7 +333,7 @@
       ],
       "thumbnail": "images/cards/witchy-birthday-card/main.jpg",
       "category": "cards",
-      "subcategory": "halloween"
+      "subcategory": "halloween", "birthday"
     }
   ]
 }
