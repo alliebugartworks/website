@@ -132,7 +132,7 @@
     {
       "id": "hay-card",
       "title": "Horse Hay Card",
-      "description": "to come",
+      "description": "For the pardner in your life! This cute, simple card comes with a matching envelope. Perfect for any horsegirl or neigh-bor.",
       "price": 5,
       "priceDisplay": "$5",
       "images": [
@@ -170,7 +170,7 @@
     {
       "id": "howdy-card",
       "title": "Howdy Card",
-      "description": "To come",
+      "description": "For the pardner in your life! This cute, simple card comes with a matching envelope.",
       "price": 8,
       "priceDisplay": "$8",
       "images": [
@@ -183,9 +183,9 @@
     {
       "id": "halloween-ghost-cards",
       "title": "Cute Halloween Ghost Card",
-      "description": "to come.",
-      "price": 15,
-      "priceDisplay": "$15",
+      "description": "Two cats, two bats, two ghosts, and one spider: I’m shuddering just thinking of it, spooooky! Block prints are fun to make in batches, so an individual card is $7 but you can get 6 for $20! Envelopes included.",
+      "price": 7,
+      "priceDisplay": "$7",
       "images": [
         "images/cards/halloween-ghost-card/1.jpg"
       ],
@@ -196,7 +196,8 @@
     {
       "id": "happy-new-year-card",
       "title": "Happy New Year Card",
-      "description": "to come",
+      "description": "(Confetti warning!) This card is based on the New Years card my husband and I sent out in 2024. And before you ask, yes, the year will be updated for your card!
+",
       "price": 15,
       "priceDisplay": "$15",
       "images": [
@@ -210,7 +211,8 @@
     {
       "id": "thank-you",
       "title": "Thank You ",
-      "description": "to come",
+      "description": "Made from a large variety of scrap material, these card are as individual as they are beautiful.
+",
       "price": 15,
       "priceDisplay": "$7",
       "images": [
@@ -254,7 +256,7 @@
     {
       "id": "pizza-birthday-card",
       "title": "Pizza Birthday Card",
-      "description": "",
+      "description": "Nutritional Info: Contains cheese, mushroom, pepperoni and good vibes! Printed on homemade paper, with an accompanying envelope.",
       "price": 15,
       "priceDisplay": "$15",
       "images": [
@@ -282,7 +284,7 @@
     {
       "id": "thank-you-flower-bouquet-card",
       "title": "Thank You Flower Bouquet Card",
-      "description": "to come",
+      "description": "Enjoy a bouquet that will never dry up, and will never ever need a water refresh.",
       "price": 15,
       "priceDisplay": "$15",
       "images": [
@@ -295,7 +297,7 @@
     {
       "id": "thank-you-script-card",
       "title": "Thank You Script Card",
-      "description": "to come",
+      "description": "Simple, straightforward, yet nonetheless elegant! Comes with a matching envelope.",
       "price": 15,
       "priceDisplay": "$15",
       "images": [
@@ -308,7 +310,7 @@
     {
       "id": "valentines-day-cards",
       "title": "Valentine's Day Cards",
-      "description": "to come",
+      "description": "A collection of love-laced letters! Made with mixed paper media utilizing Valentine Day scraps, combining the charms of a homemade card with fresh and unique designs!",
       "price": 15,
       "priceDisplay": "$15",
       "images": [
@@ -322,7 +324,7 @@
     {
       "id": "witchy-birthday-cards",
       "title": "Witchy Birthday Cards",
-      "description": "",
+      "description": "A witch-perfect card for the Scorpio in your life who encapsulates all things Halloweeny!",
       "price": 15,
       "priceDisplay": "$15",
       "images": [
