@@ -93,7 +93,7 @@
     {
       "id": "wedding-card-moon",
       "title": "Moon & Stars Wedding Card",
-      "description": "",
+      "description": "If there's an astrology loving couple getting hitched, look no further than this Moon & Stars card! Includes star-shaped confetti, and a matching envelope!",
       "price": 5,
       "priceDisplay": "$5",
       "images": [
@@ -106,7 +106,7 @@
     {
       "id": "anniversary-card",
       "title": "Cardinal Anniversary Card",
-      "description": "to come",
+      "description": "This beautiful card was made for my parents, but would be perfect for any ornithologically inclined lovers!",
       "price": 5,
       "priceDisplay": "$5",
       "images": [
@@ -119,7 +119,7 @@
     {
       "id": "birthday-card",
       "title": "Cake Birthday Card Anniversary Card",
-      "description": "to come",
+      "description": "This card and it's matching envelope is perfect, whether for a birthday, anniversary, or any other day you're hoping to brighten! ",
       "price": 8,
       "priceDisplay": "$8",
       "images": [
@@ -145,7 +145,7 @@
     {
       "id": "moving-berry-sad-card",
       "title": "Moving Berry Sad Card",
-      "description": "to come",
+      "description": "Made using homemade paper. This card is great for that friend or coworker who brought sweetness to your life.",
       "price": 8,
       "priceDisplay": "$10",
       "images": [
@@ -157,8 +157,8 @@
     {
       "id": "portrait-card",
       "title": "Birthday Portrait Card",
-      "description": "to come",
-      "price": 8,
+      "description": "I will sketch and color a portrait for you! This is as much a piece of art as it is a beautiful card; great for birthdays, but I can make these for any occasion! Price may be adjusted for portraits with more than one person.",
+      "price": 40,
       "priceDisplay": "$40",
       "images": [
         "images/cards/portrait-card/main.png"
@@ -241,7 +241,7 @@
     {
       "id": "dreamy-birthday-card",
       "title": "Wishing You a Dreamy Birthday Card",
-      "description": "to come",
+      "description": "A simple and beautiful card based on a cloudy night sky.",
       "price": 15,
       "priceDisplay": "$8",
       "images": [
@@ -267,7 +267,7 @@
     {
       "id": "mystery-card-pack",
       "title": "Mystery Card Pack",
-      "description": "",
+      "description": "Receive a random assortment of five cards I've made! Most of these cards will be ones listed here on the site, but as with all my work, every item really is one of a kind!",
       "price": 20,
       "priceDisplay": "$20",
       "images": [
