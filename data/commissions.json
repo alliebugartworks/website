@@ -4,9 +4,9 @@
     {
       "id": "poster-matrix",
       "title": "Flyer for Your Event",
-      "description": "",
-      "price": 15,
-      "priceDisplay": "$15",
+      "description": "Partiful or post office, i can make an invite for digital or analogue hosts!",
+      "price": 25,
+      "priceDisplay": "$25",
       "images": [
         "images/commission/matrix/main.jpg"
       ],
@@ -16,9 +16,9 @@
     {
       "id": "wedding-save-the-date",
       "title": "Wedding Save the Date",
-      "description": "",
-      "price": 15,
-      "priceDisplay": "$15",
+      "description": "Say "SAVE OUR DATE" in a style that is you! I will design a front and back and provide a suggestion for printing near you! we will discuss the vibe for your wedding, what the main theme of the day will be. This design process will come with one major revision and two smaller revisions.   (this is the cost of the design. You will receive no physical prints of your card from me)",
+      "price": 50,
+      "priceDisplay": "$50",
       "images": [
         "images/commission/wedding-save-the-date/main.jpg"
       ],
@@ -28,9 +28,9 @@
     {
       "id": "illustrated-portrait",
       "title": "Illustrated Portrait",
-      "description": "",
-      "price": 15,
-      "priceDisplay": "$15",
+      "description": "Did you just get a haircut? or a new pair of pants? There is just something about you that i want to capture with creativity and a digital paintbrush. +$20 per additional person or pet",
+      "price": 35,
+      "priceDisplay": "$35",
       "images": [
         "images/commission/illustrated-portrait/main.jpg", "images/portrait-card/main.png"
       ],
@@ -40,9 +40,9 @@
     {
       "id": "paper-portrait",
       "title": "Paper Portrait",
-      "description": "",
-      "price": 15,
-      "priceDisplay": "$15",
+      "description": "I made these portraits of my husband and I for our first wedding anniversary—the paper anniversary. I will create you or your loved ones with bright paper, funky shapes, and a twinkle in the eye. +$15 for each additional person/pet",
+      "price": 30,
+      "priceDisplay": "$30",
       "images": [
         "images/commission/paper-portrait/main.jpg"
       ],
@@ -53,9 +53,9 @@
     {
       "id": "party-flyer",
       "title": "Party Flyer",
-      "description": "",
-      "price": 15,
-      "priceDisplay": "$15",
+      "description": "combine with "flyer for your event",
+      "price": 0,
+      "priceDisplay": "$0",
       "images": [
         "images/commission/party-flyer/main.jpg"
       ],
@@ -77,7 +77,7 @@
     {
       "id": "commission-menus",
       "title": "Dinner Menus",
-      "description": "",
+      "description": "in the past 3 years, i have made over 30 unique dinner party menus. A menu ties your meal/event together just a bit more...it says "i planned this meal out in advanced, i committed it to paper. you are in for a treat " I will provide up to 6 copies of your menu!",
       "price": 15,
       "priceDisplay": "$15",
       "images": [
@@ -94,7 +94,7 @@
     {
       "id": "mailbox",
       "title": "Mailbox Art",
-      "description": "",
+      "description": "Tell your mail carrier that you care about your mail and the USPS. Not only do your want your mail delivered correctly, but you want the mail carrier to know a little more about you as they drop the mail in the box. This multimedia label can have a tab to pull and provide more information (ours tells the mail carrier my maiden name). Let’s have fun with it!",
       "price": 15,
       "priceDisplay": "$15",
       "images": [
@@ -107,9 +107,9 @@
     {
       "id": "crochet-puzzle",
       "title": "Crochet Puzzle",
-      "description": "",
-      "price": 15,
-      "priceDisplay": "$15",
+      "description": "This large scale board game encourages players to find the perfect granny square to complete the blanket. It is a bit like tetris and a lot of fun.",
+      "price": 235,
+      "priceDisplay": "$235",
       "images": [
         "images/commission/crochet-puzzle/main.jpg",
         "images/commission/crochet-puzzle/1.jpg"
