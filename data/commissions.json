@@ -11,7 +11,8 @@
         "images/commission/matrix/main.jpg"
       ],
       "thumbnail": "images/commission/matrix/main.jpg",
-      "category": "commission"
+      "category": "commission",
+      "timetoship": "4 days"
     },
     {
       "id": "wedding-save-the-date",
@@ -23,7 +24,8 @@
         "images/commission/wedding-save-the-date/main.jpg"
       ],
       "thumbnail": "images/commission/wedding-save-the-date/main.jpg",
-      "category": "commission"
+      "category": "commission",
+      "timetoship": "4 days"
     },
     {
       "id": "illustrated-portrait",
@@ -35,7 +37,8 @@
         "images/commission/illustrated-portrait/main.jpg", "images/portrait-card/main.png"
       ],
       "thumbnail": "images/commission/illustrated-portrait/main.jpg",
-      "category": "commission"
+      "category": "commission",
+      "timetoship": "4 days"
     },
     {
       "id": "paper-portrait",
@@ -48,7 +51,8 @@
       ],
       "thumbnail": "images/commission/paper-portrait/main.jpg",
       "category": "commission",
-      "subcategory": "portrait"
+      "subcategory": "portrait",
+      "timetoship": "4 days"
     },
     {
       "id": "party-flyer",
@@ -60,7 +64,8 @@
         "images/commission/party-flyer/main.jpg"
       ],
       "thumbnail": "images/commission/party-flyer/main.jpg",
-      "category": "commission"
+      "category": "commission",
+      "timetoship": "4 days"
     },
     {
       "id": "commission-portrait",
@@ -72,7 +77,8 @@
         "images/commission/portrait/main.jpg"
       ],
       "thumbnail": "images/commission/portrait/main.jpg",
-      "category": "commission"
+      "category": "commission",
+      "timetoship": "4 days"
     },
     {
       "id": "commission-menus",
@@ -89,7 +95,8 @@
         "images/commission/menus/5.jpg"
       ],
       "thumbnail": "images/commission/menus/main.jpg",
-      "category": "commission"
+      "category": "commission",
+      "timetoship": "4 days"
     },
     {
       "id": "mailbox",
@@ -102,7 +109,8 @@
         "images/commission/mailbox/1.jpg"
       ],
       "thumbnail": "images/commission/mailbox/main.jpg",
-      "category": "commission"
+      "category": "commission",
+      "timetoship": "4 days"
     },
     {
       "id": "crochet-puzzle",
@@ -115,7 +123,8 @@
         "images/commission/crochet-puzzle/1.jpg"
       ],
       "thumbnail": "images/commission/crochet-puzzle/main.jpg",
-      "category": "commission"
+      "category": "commission",
+      "timetoship": "4 days"
     },
     {
       "id": "love-letter-envelope",
@@ -129,7 +138,8 @@
         "images/paper/love-letter-envelope/2.jpg"
       ],
       "thumbnail": "images/paper/love-letter-envelope/main.jpg",
-      "category": "paper"
+      "category": "paper",
+      "timetoship": "4 days"
     }
   ]
 }

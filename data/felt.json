@@ -11,7 +11,8 @@
         "images/felt/hello-banner/1.jpg"
       ],
       "thumbnail": "images/felt/hello-banner/main.jpg",
-      "category": "felt"
+      "category": "felt",
+      "timetoship": "4 days"
     },
     {
       "id": "so-very-loved-felt",
@@ -23,7 +24,8 @@
         "images/felt/so-very-loved-felt/main.jpg"
       ],
       "thumbnail": "images/felt/so-very-loved-felt/main.jpg",
-      "category": "felt"
+      "category": "felt",
+      "timetoship": "4 days"
     },
         {
       "id": "camp-banner",
@@ -36,7 +38,8 @@
         "images/felt/camp-banner/image.png"
       ],
       "thumbnail": "images/felt/camp-banner/main.png",
-      "category": "felt"
+      "category": "felt",
+      "timetoship": "4 days"
     },
     {
       "id": "love-bad-bitches",
@@ -48,7 +51,8 @@
         "images/felt/love-bad-bitches/main.jpg"
       ],
       "thumbnail": "images/felt/love-bad-bitches/main.jpg",
-      "category": "felt"
+      "category": "felt",
+      "timetoship": "4 days"
     },
     
     {
@@ -62,7 +66,8 @@
         "images/felt/butter-banner/Felt_butter2.png"
       ],
       "thumbnail": "images/felt/butter-banner/Felt_butter1.png",
-      "category": "felt"
+      "category": "felt",
+      "timetoship": "4 days"
     },
     {
       "id": "name-banner",
@@ -76,7 +81,8 @@
         "images/felt/jamie-name/main.png"
       ],
       "thumbnail": "images/felt/sophie-name/main.png",
-      "category": "felt"
+      "category": "felt",
+      "timetoship": "4 days"
     },
   
     {
@@ -91,7 +97,8 @@
         "images/felt/nursery-banner/main.jpg"
       ],
       "thumbnail": "images/felt/nursery-banner/222.jpg",
-      "category": "felt"
+      "category": "felt",
+      "timetoship": "4 days"
     },
     {
       "id": "custom-commission",
@@ -103,7 +110,8 @@
         "images/felt/casey-name/main.png"
       ],
       "thumbnail": "images/felt/casey-name/main.png",
-      "category": "felt"
+      "category": "felt",
+      "timetoship": "4 days"
     },
     
     {
@@ -116,7 +124,8 @@
         "images/felt/this-must-be-the-place-felt/main.jpg"
       ],
       "thumbnail": "images/felt/this-must-be-the-place-felt/main.jpg",
-      "category": "felt"
+      "category": "felt",
+      "timetoship": "4 days"
     }
   ]
 }

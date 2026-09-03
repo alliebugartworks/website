@@ -100,6 +100,7 @@ function renderGallery(artworks) {
     body.innerHTML = `
       <div class="art-card-meta">
         <span class="art-card-tag">${getCategoryLabel(artwork.category)}</span>
+        <span class="timetoship-category">Ships in ${artwork.timetoship}!</span>
       </div>
       <h2 class="art-card-title">${artwork.title}</h2>
       <p class="art-card-price">${formatPrice(artwork)}</p>
