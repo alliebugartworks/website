@@ -419,6 +419,19 @@ a:hover {
   text-transform: uppercase;
 }
 
+.timetoship-category {
+  display: inline-block;
+  margin: 0 0 0.75rem;
+  border-radius: 999px;
+  background: #15b7ed;
+  color: black;
+  padding: 0.25rem 0.7rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
 .piece-info h1 {
   font-family: var(--font-display);
   font-size: clamp(2rem, 4vw, 2.75rem);
