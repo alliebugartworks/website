@@ -149,6 +149,14 @@ function wireSubcategoryButtons(allArtworks) {
   }
   )
 }
+function toggleSubcategoryToolbar(filter) {
+  if (filter === "cards") {
+    document.querySelector(".subcategory-toolbar").style.visibility = "visible";
+  } else {
+    document.querySelector(".subcategory-toolbar").style.visibility = "hidden";
+
+  }
+}
 function wireFilterButtons(allArtworks) {
   const buttons = document.querySelectorAll(".filter-button");
   const grid = document.getElementById("gallery-grid");
@@ -167,12 +175,8 @@ function wireFilterButtons(allArtworks) {
         renderGallery(allArtworks);
         return;
       }
-      if (filter === "cards") {
-        document.querySelector(".subcategory-toolbar").style.visibility = "visible";
-      } else {
-        document.querySelector(".subcategory-toolbar").style.visibility = "hidden";
+      toggleSubcategoryToolbar(filter);
 
-      }
 
       const filteredArtworks = allArtworks.filter((artwork) => artwork.category === filter);
       renderGallery(filteredArtworks);
@@ -196,6 +200,8 @@ async function initGallery() {
 
     if (filter) {
       const filteredArtworks = artworks.filter((artwork) => artwork.category === filter);
+      toggleSubcategoryToolbar(filter);
+
       setGalleryTitle(filter);
       setGallerySubtitle("filter");
       renderGallery(filteredArtworks);
