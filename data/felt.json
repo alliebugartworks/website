@@ -2,7 +2,7 @@
   "artworks": [
       {
       "id": "hello-banner",
-      "title": "Hello Banner",
+      "title": "Hello Pennant Banner",
       "description": "Hand cut and stitched, this little banner adds the perfect pop of color to any room!",
       "price": 45,
       "priceDisplay": "$45",
@@ -15,10 +15,10 @@
     },
     {
       "id": "so-very-loved-felt",
-      "title": "So Very Loved Felt Piece",
+      "title": "So Very Loved Banner",
       "description": "This medium-sized piece is perfect wall art for a child or newborn's room, but is also great for any space!",
       "price": 45, 
-      "priceDisplay": "45",
+      "priceDisplay": "$45",
       "images": [
         "images/felt/so-very-loved-felt/main.jpg"
       ],
@@ -27,7 +27,7 @@
     },
         {
       "id": "camp-banner",
-      "title": "Camp Banner",
+      "title": "Camp-Inspired Banner",
       "description": "My friends had a camp themed bachelorette party and I crafted this banner to help celebrate! I thrifted that beautiful green material for the base and handstitched every felt piece and bead on top. The disco ball, stars, and beadwork are optional for an additional $20. ",
       "price": 75,
       "priceDisplay": "$75",
@@ -40,7 +40,7 @@
     },
     {
       "id": "love-bad-bitches",
-      "title": "I Love Bad Bitches Banner",
+      "title": "I Love Bad Bitches A$AP Rocky Banner",
       "description": "This design was inspired by my sister's love as A$AP Rocky when she was a 17 year old girl. It is a felt and cotton fabric banner entirely handstitched with small beaded details, a solid border, and hanging loops on the back.",
       "price": 100,
       "priceDisplay": "$100",
@@ -66,14 +66,14 @@
     },
     {
       "id": "name-banner",
-      "title": "Name Banner",
+      "title": "Customizable Name Banner",
       "description": "Handstitched felt name sign for your kiddo's room. You can pick colors from my felt library to completely customize the banner, or I'd love to surprise you with the final design. Ribbon adornment available for $5 and star additions are available for $10. ",
       "price": 30,
       "priceDisplay": "$30",
       "images": [
+        "images/felt/sophie-name/main.png",
         "images/felt/casey-name/main.png",
-        "images/felt/jamie-name/main.png",
-        "images/felt/sophie-name/main.png"
+        "images/felt/jamie-name/main.png"
       ],
       "thumbnail": "images/felt/casey-name/main.png",
       "category": "felt"
@@ -95,7 +95,7 @@
     },
     {
       "id": "custom-commission",
-      "title": "Custom Commission",
+      "title": "Custom Felt Commission",
       "description": "Commission a one-of-a-kind felt piece for a gift, nursery, celebration, or special memory. Tell me what you're envisioning below and choose any details you'd like included.",
       "price": 100,
       "priceDisplay": "$100",
@@ -108,8 +108,8 @@
     
     {
       "id": "this-must-be-the-place-felt",
-      "title": "This Must Be The Place Felt Piece",
-      "description": "We currently have this hung in the entryway of our home; it makes the most perfectly charming impression on everyone who visits, and pays homage to one of my favorite songs ever!",
+      "title": "This Must Be The Place Banner",
+      "description": "We currently have this felt piece hung in the entryway of our home; it makes the most perfectly charming impression on everyone who visits, and pays homage to one of my favorite songs ever!",
       "price": 100,
       "priceDisplay": "100",
       "images": [
