@@ -14,7 +14,7 @@ function getCategoryLabel(category) {
 
 const filterDescriptions = {
   all: "Welcome to my site! I love working with a variety of materials and mediums to craft truly unique pieces of art. I'd also love the opportunity to customize these items further; feel free to reach out to me with any and all ideas!",
-  "card": "I have original, handmade cards for nearly every celebration! If you like my style but are looking for something totally unique, feel free to reach out!.",
+  "cards": "I have original, handmade cards for nearly every celebration! If you like my style but are looking for something totally unique, feel free to reach out!.",
   "felt": "All these banners and felt pieces are hand-stitched and full of love!"
 };
 
