@@ -14,8 +14,8 @@ function getCategoryLabel(category) {
 
 const filterDescriptions = {
   all: "Welcome to my site! I love working with a variety of materials and mediums to craft truly unique pieces of art. I'd also love the opportunity to customize these items further; feel free to reach out to me with any and all ideas!",
-  "card": "Original handmade cards for birthdays, celebrations, and everyday moments. Each one is designed with a little extra personality and can be customized for your occasion.",
-  "felt": "Hand-stitched felt pieces and banners made with layered color, texture, and small details. Many can be customized or adapted into a one-of-a-kind commission."
+  "card": "I have original, handmade cards for nearly every celebration! If you like my style but are looking for something totally unique, feel free to reach out!.",
+  "felt": "All these banners and felt pieces are hand-stitched and full of love!"
 };
 
 const filterTitles = {
