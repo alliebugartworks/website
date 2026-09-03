@@ -121,7 +121,7 @@ function buildCheckoutMessage(orderItems, customer) {
 
   const footer = [
     "",
-    `Order total: ${formatCurrency(orderItems.reduce((sum, item) => sum + item.lineTotal, 0))}`,
+    `Estimated Order total: ${formatCurrency(orderItems.reduce((sum, item) => sum + item.lineTotal, 0))}`,
   ];
 
   return [...intro, ...details, ...footer].join("\n");
@@ -266,7 +266,7 @@ function renderCart() {
               <span>${itemCount}</span>
             </div>
             <div class="summary-row total-row">
-              <span>Total</span>
+              <span>Estimated Total</span>
               <span>${formatCurrency(total)}</span>
             </div>
             <button type="button" class="primary-button cart-checkout">Checkout!</button>

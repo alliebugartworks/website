@@ -143,7 +143,9 @@ function wireSubcategoryButtons(allArtworks) {
         renderGallery(cards);
         return;
       }
-      const filteredArtworks = allArtworks.filter((artwork) => artwork.subcategory === filter);
+
+      const filteredArtworks = allArtworks.filter((artwork) => 
+       artwork.subcategory && artwork.subcategory.includes(filter));
       renderGallery(filteredArtworks);
     });
   }
