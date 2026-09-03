@@ -15,7 +15,7 @@
     },
     {
       "id": "handmade-cards",
-      "title": "Handmade Pride Cards",
+      "title": "Handmade Pride Card Set",
       "description": "Pride card with rippling effects. Cards can be flowers, hearts, triangles, or circles at the centers in any pride flag colors. Small text optional! $5/card or a $15/set of 4 cards",
       "price": 15,
       "priceDisplay": "$15",
@@ -24,7 +24,7 @@
       ],
       "thumbnail": "images/cards/handmade-cards/main.jpg",
       "category": "cards",
-      "subcategory": ["celebration"]
+      "subcategory": ["celebration", "card sets"]
     },
     {
       "id": "thank-you-stamp-cards",
@@ -324,7 +324,7 @@
     },
     {
       "id": "witchy-birthday-cards",
-      "title": "Witchy Birthday Cards",
+      "title": "Witchy Birthday Card",
       "description": "A witch-perfect card for the Scorpio in your life who encapsulates all things Halloweeny!",
       "price": 15,
       "priceDisplay": "$15",
