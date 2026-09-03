@@ -300,7 +300,8 @@
       ],
       "thumbnail": "images/cards/mystery-card-pack/main.jpg",
       "category": "cards",
-      "subcategory": ["hello"]
+      "subcategory": ["hello"],
+      "timetoship": "4 days"
     },
     {
       "id": "thank-you-flower-bouquet-card",
