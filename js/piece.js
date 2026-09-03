@@ -86,6 +86,7 @@ function renderPiece(artwork, siteConfig) {
       </div>
       <div class="piece-info">
         <p class="piece-category">${getCategoryLabel(artwork.category)}</p>
+        <p class="piece-category">Ships in ${artwork.timetoship}!</p>
         <h1>${artwork.title}</h1>
         <p class="piece-price" data-base-price="${basePrice}">${formatPrice(artwork)}</p>
         <p class="piece-description">${artwork.description}</p>

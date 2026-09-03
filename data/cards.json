@@ -11,7 +11,8 @@
       ],
       "thumbnail": "images/cards/very-hungry-boy-card/main.png",
       "category": "cards",
-      "subcategory": ["birthday"]
+      "subcategory": ["birthday"],
+      "timetoship": "4 days"
     },
     {
       "id": "handmade-cards",
@@ -24,7 +25,8 @@
       ],
       "thumbnail": "images/cards/handmade-cards/main.jpg",
       "category": "cards",
-      "subcategory": ["celebration", "card sets"]
+      "subcategory": ["celebration", "card sets"],
+       "timetoship": "2 weeks"
     },
     {
       "id": "thank-you-stamp-cards",
@@ -37,7 +39,8 @@
       ],
       "thumbnail": "images/cards/thank-you-stamp-cards/main.jpg",
       "category": "cards",
-      "subcategory": ["thankyou"]
+      "subcategory": ["thankyou"],
+      "timetoship": "4 days"
     },
     {
       "id": "halloween-card",
@@ -50,7 +53,8 @@
       ],
       "thumbnail": "images/cards/halloween-card/main.jpg",
       "category": "cards",
-      "subcategory": ["halloween"]
+      "subcategory": ["halloween"],
+      "timetoship": "4 days"
     },
     {
       "id": "hand-drawn-engaged",
@@ -63,7 +67,8 @@
       ],
       "thumbnail": "images/cards/hand-drawn-engaged/main.jpg",
       "category": "cards",
-      "subcategory": ["wedding"]
+      "subcategory": ["wedding"],
+      "timetoship": "4 days"
     },
     {
       "id": "new-home-card",
@@ -76,7 +81,8 @@
       ],
       "thumbnail": "images/cards/new-home-card/main.jpg",
       "category": "cards",
-      "subcategory": ["celebration"]
+      "subcategory": ["celebration"],
+      "timetoship": "4 days"
     },
     {
       "id": "wedding-card",
@@ -89,7 +95,8 @@
       ],
       "thumbnail": "images/cards/wedding-card/main.jpg",
       "category": "cards",
-      "subcategory": ["wedding"]
+      "subcategory": ["wedding"],
+      "timetoship": "4 days"
     },
     {
       "id": "wedding-card-moon",
@@ -102,7 +109,8 @@
       ],
       "thumbnail": "images/cards/wedding-card-moon/main.jpg",
       "category": "cards",
-      "subcategory": ["wedding"]
+      "subcategory": ["wedding"],
+      "timetoship": "4 days"
     },
     {
       "id": "anniversary-card",
@@ -115,7 +123,8 @@
       ],
       "thumbnail": "images/cards/anniversary-card/main.png",
       "category": "cards",
-      "subcategory": ["wedding"]
+      "subcategory": ["wedding"],
+      "timetoship": "4 days"
     },
     {
       "id": "birthday-card",
@@ -128,7 +137,8 @@
       ],
       "thumbnail": "images/cards/birthday-card/main.png",
       "category": "cards",
-      "subcategory": ["birthday"]
+      "subcategory": ["birthday"],
+      "timetoship": "4 days"
     },
     {
       "id": "hay-card",
@@ -141,7 +151,8 @@
       ],
       "thumbnail": "images/cards/hay-card/main.png",
       "category": "cards",
-      "subcategory": ["hello"]
+      "subcategory": ["hello"],
+      "timetoship": "4 days"
     },
     {
       "id": "moving-berry-sad-card",
@@ -154,7 +165,8 @@
       ],
       "thumbnail": "images/cards/moving-berry-sad-card/main.png",
       "category": "cards",
-      "subcategory": ["hello"]
+      "subcategory": ["hello"],
+      "timetoship": "4 days"
     },
     {
       "id": "portrait-card",
@@ -167,7 +179,8 @@
       ],
       "thumbnail": "images/cards/portrait-card/main.png",
       "category": "cards",
-      "subcategory": ["wedding"]
+      "subcategory": ["wedding"],
+      "timetoship": "4 days"
     },
     {
       "id": "howdy-card",
@@ -180,7 +193,8 @@
       ],
       "thumbnail": "images/cards/howdy-card/main.jpg",
       "category": "cards",
-      "subcategory": ["hello"]
+      "subcategory": ["hello"],
+      "timetoship": "4 days"
     },
     {
       "id": "halloween-ghost-cards",
@@ -193,7 +207,8 @@
       ],
       "thumbnail": "images/cards/halloween-ghost-card/1.jpg",
       "category": "cards",
-      "subcategory": ["halloween"]
+      "subcategory": ["halloween"],
+      "timetoship": "4 days"
     },
     {
       "id": "happy-new-year-card",
@@ -207,7 +222,8 @@
       ],
       "thumbnail": "images/cards/happy-new-year-card/main.jpg",
       "category": "cards",
-      "subcategory": ["celebration"]
+      "subcategory": ["celebration"],
+      "timetoship": "4 days"
     },
     {
       "id": "thank-you",
@@ -225,7 +241,8 @@
       ],
       "thumbnail": "images/cards/thank-you-card/main.jpg",
       "category": "cards",
-      "subcategory": ["thankyou"]
+      "subcategory": ["thankyou"],
+      "timetoship": "4 days"
     },
     {
       "id": "yarn-you",
@@ -238,7 +255,8 @@
       ],
       "thumbnail": "images/cards/yarn-card/main.jpg",
       "category": "cards",
-      "subcategory": ["birthday", "hello"]
+      "subcategory": ["birthday", "hello"],
+      "timetoship": "4 days"
     },
     {
       "id": "dreamy-birthday-card",
@@ -251,7 +269,8 @@
       ],
       "thumbnail": "images/cards/dreamy-birthday-card/image.jpg",
       "category": "cards",
-      "subcategory": ["birthday"]
+      "subcategory": ["birthday"],
+      "timetoship": "4 days"
     },
     {
       "id": "pizza-birthday-card",
@@ -264,7 +283,8 @@
       ],
       "thumbnail": "images/cards/pizza-birthday-card/1.jpg",
       "category": "cards",
-      "subcategory": ["birthday"]
+      "subcategory": ["birthday"],
+      "timetoship": "4 days"
     },
     {
       "id": "mystery-card-pack",
@@ -293,7 +313,8 @@
       ],
       "thumbnail": "images/cards/thank-you-flower-bouquet-card/main.jpg",
       "category": "cards",
-      "subcategory": ["thankyou"]
+      "subcategory": ["thankyou"],
+      "timetoship": "4 days"
     },
     {
       "id": "thank-you-script-card",
@@ -306,7 +327,8 @@
       ],
       "thumbnail": "images/cards/thank-you-script-card/main.jpg",
       "category": "cards",
-      "subcategory": ["thankyou"]
+      "subcategory": ["thankyou"],
+      "timetoship": "4 days"
     },
     {
       "id": "valentines-day-cards",
@@ -320,7 +342,8 @@
       ],
       "thumbnail": "images/cards/valentines-day-cards/main.jpg",
       "category": "cards",
-      "subcategory": ["celebration"]
+      "subcategory": ["celebration"],
+      "timetoship": "4 days"
     },
     {
       "id": "witchy-birthday-cards",
@@ -333,7 +356,8 @@
       ],
       "thumbnail": "images/cards/witchy-birthday-card/main.jpg",
       "category": "cards",
-      "subcategory": ["halloween", "birthday"]
+      "subcategory": ["halloween", "birthday"],
+      "timetoship": "4 days"
     }
   ]
 }
