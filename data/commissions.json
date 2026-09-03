@@ -54,8 +54,8 @@
       "id": "party-flyer",
       "title": "Party Flyer",
       "description": "combine with ~flyer for your event~",
-      "price": 0,
-      "priceDisplay": "$0",
+      "price": 25,
+      "priceDisplay": "$25",
       "images": [
         "images/commission/party-flyer/main.jpg"
       ],
