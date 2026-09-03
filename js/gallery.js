@@ -13,8 +13,8 @@ function getCategoryLabel(category) {
 }
 
 const filterDescriptions = {
-  all: "Tap any piece to view details, photos, and pricing. You can order any of these pieces as is, customize, or work with me to commission a new piece.",
-  card: "Original handmade cards for birthdays, celebrations, and everyday moments. Each one is designed with a little extra personality and can be customized for your occasion.",
+  all: "Welcome to my site! I love working with a variety of materials and mediums to craft truly unique pieces of art. I'd also love the opportunity to customize these items further; feel free to reach out to me with any and all ideas!",
+  "card": "Original handmade cards for birthdays, celebrations, and everyday moments. Each one is designed with a little extra personality and can be customized for your occasion.",
   "felt": "Hand-stitched felt pieces and banners made with layered color, texture, and small details. Many can be customized or adapted into a one-of-a-kind commission."
 };
 
