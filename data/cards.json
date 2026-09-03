@@ -238,7 +238,7 @@
       ],
       "thumbnail": "images/cards/yarn-card/main.jpg",
       "category": "cards",
-      "subcategory": ["birthday"]
+      "subcategory": ["birthday", "hello"]
     },
     {
       "id": "dreamy-birthday-card",
