@@ -83,7 +83,11 @@ function renderGallery(artworks) {
     grid.innerHTML = '<p class="loading">No artwork listed yet. Add pieces in json</p>';
     return;
   }
+
+  var listofstuff = [];
+
   artworks.forEach((artwork) => {
+
     const card = document.createElement("article");
     card.className = "art-card";
 
@@ -129,8 +133,39 @@ function renderGallery(artworks) {
     actions.appendChild(addButton);
     card.appendChild(link);
     card.appendChild(actions);
-    grid.appendChild(card);
+    listofstuff.push(card);
   });
+
+  for (var i = 0; i < listofstuff.length; i += 3) {
+    const row = document.createElement("div");
+    row.className = "row";
+
+
+    if (i < listofstuff.length) {
+      const col1 = document.createElement("div");
+      col1.className = "col";
+      col1.appendChild(listofstuff[i]);
+      row.appendChild(col1);
+    }
+
+    if (i + 1 < listofstuff.length) {
+      const col2 = document.createElement("div");
+      col2.className = "col";
+      col2.appendChild(listofstuff[i + 1]);
+      row.appendChild(col2);
+    }
+    if (i + 2 < listofstuff.length) {
+      console.log("i + 2 is less than listofstuff.length");
+      const col3 = document.createElement("div");
+      col3.className = "col";
+      col3.appendChild(listofstuff[i + 2]);
+      row.appendChild(col3);
+    }
+
+
+    grid.appendChild(row);
+  }
+
 }
 function wireSubcategoryButtons(allArtworks) {
   const buttons = document.querySelectorAll(".card-filter-button");
@@ -145,8 +180,8 @@ function wireSubcategoryButtons(allArtworks) {
         return;
       }
 
-      const filteredArtworks = allArtworks.filter((artwork) => 
-       artwork.subcategory && artwork.subcategory.includes(filter));
+      const filteredArtworks = allArtworks.filter((artwork) =>
+        artwork.subcategory && artwork.subcategory.includes(filter));
       renderGallery(filteredArtworks);
     });
   }
@@ -197,11 +232,12 @@ async function initGallery() {
   try {
     const artworks = await loadArtworks();
 
-    const queryString = window.location.search;
-    const urlParams = new URLSearchParams(queryString);
-    const filter = urlParams.get('filter');
+    // const queryString = window.location.search;
+    // const urlParams = new URLSearchParams(queryString);
+    // const filter = urlParams.get('filter');
 
-    if (filter) {
+    // if (filter) {
+    if(false){
       const filteredArtworks = artworks.filter((artwork) => artwork.category === filter);
       toggleSubcategoryToolbar(filter);
 
